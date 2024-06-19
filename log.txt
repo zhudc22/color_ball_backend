@@ -1,0 +1,1401 @@
+INFO - 2024-06-03 11:08:18,238 - config - __init__ - line:353 -  Will watch for changes in these directories: ['/Users/jzh/Projects/PycharmProjects/color_ball']
+INFO - 2024-06-03 11:08:18,238 - config - bind_socket - line:581 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-03 11:08:18,238 - basereload - startup - line:72 -  Started reloader process [22990] using WatchFiles
+INFO - 2024-06-03 11:08:18,826 - server - serve - line:75 -  Started server process [23061]
+INFO - 2024-06-03 11:08:18,826 - server - serve - line:75 -  Started server process [23061]
+INFO - 2024-06-03 11:08:18,826 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:08:18,826 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:08:18,826 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:08:18,826 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:08:18,923 - main - _log_changes - line:297 -  4 changes detected
+INFO - 2024-06-03 11:08:22,488 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:08:36,174 - httptools_impl - send - line:489 -  127.0.0.1:61846 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-03 11:08:36,174 - httptools_impl - send - line:489 -  127.0.0.1:61846 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-03 11:08:36,803 - httptools_impl - send - line:489 -  127.0.0.1:61846 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-03 11:08:36,803 - httptools_impl - send - line:489 -  127.0.0.1:61846 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-03 11:09:10,289 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:09:10,290 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:09:10,319 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:09:10,319 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:09:10,420 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:09:10,420 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:09:10,420 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:09:10,420 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:09:10,420 - server - serve - line:85 -  Finished server process [23061]
+INFO - 2024-06-03 11:09:10,420 - server - serve - line:85 -  Finished server process [23061]
+INFO - 2024-06-03 11:09:10,637 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:09:11,045 - server - serve - line:75 -  Started server process [28405]
+INFO - 2024-06-03 11:09:11,045 - server - serve - line:75 -  Started server process [28405]
+INFO - 2024-06-03 11:09:11,045 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:09:11,045 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:09:11,045 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:09:11,045 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:09:11,117 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:09:26,539 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:09:26,539 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:09:26,613 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:09:26,613 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:09:26,714 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:09:26,714 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:09:26,715 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:09:26,715 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:09:26,715 - server - serve - line:85 -  Finished server process [28405]
+INFO - 2024-06-03 11:09:26,715 - server - serve - line:85 -  Finished server process [28405]
+INFO - 2024-06-03 11:09:26,889 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:09:27,315 - server - serve - line:75 -  Started server process [30061]
+INFO - 2024-06-03 11:09:27,315 - server - serve - line:75 -  Started server process [30061]
+INFO - 2024-06-03 11:09:27,315 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:09:27,315 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:09:27,316 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:09:27,316 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:09:27,376 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:09:31,921 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:09:31,921 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:09:31,970 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:09:31,970 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:09:32,071 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:09:32,071 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:09:32,071 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:09:32,071 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:09:32,071 - server - serve - line:85 -  Finished server process [30061]
+INFO - 2024-06-03 11:09:32,071 - server - serve - line:85 -  Finished server process [30061]
+INFO - 2024-06-03 11:09:32,247 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:09:32,518 - server - serve - line:75 -  Started server process [30624]
+INFO - 2024-06-03 11:09:32,518 - server - serve - line:75 -  Started server process [30624]
+INFO - 2024-06-03 11:09:32,518 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:09:32,518 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:09:32,518 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:09:32,518 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:09:32,623 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:09:50,296 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:09:50,297 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:09:50,300 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:09:50,300 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:09:50,401 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:09:50,401 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:09:50,402 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:09:50,402 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:09:50,402 - server - serve - line:85 -  Finished server process [30624]
+INFO - 2024-06-03 11:09:50,402 - server - serve - line:85 -  Finished server process [30624]
+INFO - 2024-06-03 11:09:50,583 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:09:51,023 - server - serve - line:75 -  Started server process [32485]
+INFO - 2024-06-03 11:09:51,023 - server - serve - line:75 -  Started server process [32485]
+INFO - 2024-06-03 11:09:51,023 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:09:51,023 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:09:51,024 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:09:51,024 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:09:51,117 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:09:59,230 - httptools_impl - send - line:489 -  127.0.0.1:62291 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-03 11:09:59,230 - httptools_impl - send - line:489 -  127.0.0.1:62291 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-03 11:09:59,621 - httptools_impl - send - line:489 -  127.0.0.1:62291 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-03 11:09:59,621 - httptools_impl - send - line:489 -  127.0.0.1:62291 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-03 11:10:11,313 - httptools_impl - send - line:489 -  127.0.0.1:62292 - "POST /calculate/fixed/?start_period=10&interval=5 HTTP/1.1" 200
+INFO - 2024-06-03 11:10:11,313 - httptools_impl - send - line:489 -  127.0.0.1:62292 - "POST /calculate/fixed/?start_period=10&interval=5 HTTP/1.1" 200
+INFO - 2024-06-03 11:10:47,553 - main - _log_changes - line:297 -  3 changes detected
+WARNING - 2024-06-03 11:10:47,553 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:10:47,558 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:10:47,558 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:10:47,659 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:10:47,659 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:10:47,659 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:10:47,659 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:10:47,660 - server - serve - line:85 -  Finished server process [32485]
+INFO - 2024-06-03 11:10:47,660 - server - serve - line:85 -  Finished server process [32485]
+INFO - 2024-06-03 11:10:47,845 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:10:48,260 - server - serve - line:75 -  Started server process [38319]
+INFO - 2024-06-03 11:10:48,260 - server - serve - line:75 -  Started server process [38319]
+INFO - 2024-06-03 11:10:48,260 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:10:48,260 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:10:48,260 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:10:48,260 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:10:48,375 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:10:50,745 - main - _log_changes - line:297 -  3 changes detected
+WARNING - 2024-06-03 11:10:50,745 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:10:50,792 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:10:50,792 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:10:50,893 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:10:50,893 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:10:50,893 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:10:50,893 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:10:50,894 - server - serve - line:85 -  Finished server process [38319]
+INFO - 2024-06-03 11:10:50,894 - server - serve - line:85 -  Finished server process [38319]
+INFO - 2024-06-03 11:10:51,067 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:10:51,399 - server - serve - line:75 -  Started server process [38648]
+INFO - 2024-06-03 11:10:51,399 - server - serve - line:75 -  Started server process [38648]
+INFO - 2024-06-03 11:10:51,400 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:10:51,400 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:10:51,400 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:10:51,400 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:10:51,491 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:11:00,832 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:11:32,484 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:11:32,484 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:11:32,541 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:11:32,541 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:11:32,642 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:11:32,642 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:11:32,642 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:11:32,642 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:11:32,643 - server - serve - line:85 -  Finished server process [38648]
+INFO - 2024-06-03 11:11:32,643 - server - serve - line:85 -  Finished server process [38648]
+INFO - 2024-06-03 11:11:32,816 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:11:33,217 - server - serve - line:75 -  Started server process [42915]
+INFO - 2024-06-03 11:11:33,217 - server - serve - line:75 -  Started server process [42915]
+INFO - 2024-06-03 11:11:33,217 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:11:33,217 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:11:33,217 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:11:33,217 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:11:33,293 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:11:36,966 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:11:36,966 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:11:37,049 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:11:37,049 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:11:37,151 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:11:37,151 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:11:37,151 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:11:37,151 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:11:37,151 - server - serve - line:85 -  Finished server process [42915]
+INFO - 2024-06-03 11:11:37,151 - server - serve - line:85 -  Finished server process [42915]
+INFO - 2024-06-03 11:11:37,358 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:11:37,644 - server - serve - line:75 -  Started server process [43387]
+INFO - 2024-06-03 11:11:37,644 - server - serve - line:75 -  Started server process [43387]
+INFO - 2024-06-03 11:11:37,644 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:11:37,644 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:11:37,644 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:11:37,644 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:11:37,743 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:11:45,378 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:11:45,379 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:11:45,421 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:11:45,421 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:11:45,521 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:11:45,521 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:11:45,521 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:11:45,521 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:11:45,521 - server - serve - line:85 -  Finished server process [43387]
+INFO - 2024-06-03 11:11:45,521 - server - serve - line:85 -  Finished server process [43387]
+INFO - 2024-06-03 11:11:45,708 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:11:46,033 - server - serve - line:75 -  Started server process [44236]
+INFO - 2024-06-03 11:11:46,033 - server - serve - line:75 -  Started server process [44236]
+INFO - 2024-06-03 11:11:46,033 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:11:46,033 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:11:46,034 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:11:46,034 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:11:46,137 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:11:48,486 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:11:48,486 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:11:48,567 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:11:48,567 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:11:48,668 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:11:48,668 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:11:48,669 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:11:48,669 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:11:48,669 - server - serve - line:85 -  Finished server process [44236]
+INFO - 2024-06-03 11:11:48,669 - server - serve - line:85 -  Finished server process [44236]
+INFO - 2024-06-03 11:11:48,897 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:11:49,331 - server - serve - line:75 -  Started server process [44557]
+INFO - 2024-06-03 11:11:49,331 - server - serve - line:75 -  Started server process [44557]
+INFO - 2024-06-03 11:11:49,331 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:11:49,331 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:11:49,331 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:11:49,331 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:11:49,433 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:11:55,661 - httptools_impl - send - line:489 -  127.0.0.1:62918 - "POST /calculate/fixed/?start_period=10&interval=5 HTTP/1.1" 500
+INFO - 2024-06-03 11:11:55,661 - httptools_impl - send - line:489 -  127.0.0.1:62918 - "POST /calculate/fixed/?start_period=10&interval=5 HTTP/1.1" 500
+INFO - 2024-06-03 11:16:05,300 - httptools_impl - send - line:489 -  127.0.0.1:64254 - "POST /calculate/fixed/?start_period=10&interval=5 HTTP/1.1" 500
+INFO - 2024-06-03 11:16:05,300 - httptools_impl - send - line:489 -  127.0.0.1:64254 - "POST /calculate/fixed/?start_period=10&interval=5 HTTP/1.1" 500
+INFO - 2024-06-03 11:17:15,110 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:21:36,395 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:21:36,395 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:21:36,466 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:21:36,466 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:21:36,567 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:21:36,567 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:21:36,569 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:21:36,569 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:21:36,570 - server - serve - line:85 -  Finished server process [44557]
+INFO - 2024-06-03 11:21:36,570 - server - serve - line:85 -  Finished server process [44557]
+INFO - 2024-06-03 11:21:36,808 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:21:37,267 - server - serve - line:75 -  Started server process [4702]
+INFO - 2024-06-03 11:21:37,267 - server - serve - line:75 -  Started server process [4702]
+INFO - 2024-06-03 11:21:37,267 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:21:37,267 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:21:37,267 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:21:37,267 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:21:37,334 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:21:44,182 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:21:44,182 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:21:44,247 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:21:44,247 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:21:44,349 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:21:44,349 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:21:44,349 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:21:44,349 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:21:44,349 - server - serve - line:85 -  Finished server process [4702]
+INFO - 2024-06-03 11:21:44,349 - server - serve - line:85 -  Finished server process [4702]
+INFO - 2024-06-03 11:21:44,535 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:21:44,886 - server - serve - line:75 -  Started server process [5503]
+INFO - 2024-06-03 11:21:44,886 - server - serve - line:75 -  Started server process [5503]
+INFO - 2024-06-03 11:21:44,886 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:21:44,886 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:21:44,886 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:21:44,886 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:21:44,961 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:22:07,059 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:22:07,060 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:22:07,112 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:07,112 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:07,213 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:07,213 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:07,214 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:07,214 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:07,214 - server - serve - line:85 -  Finished server process [5503]
+INFO - 2024-06-03 11:22:07,214 - server - serve - line:85 -  Finished server process [5503]
+INFO - 2024-06-03 11:22:07,395 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:22:07,732 - server - serve - line:75 -  Started server process [7910]
+INFO - 2024-06-03 11:22:07,732 - server - serve - line:75 -  Started server process [7910]
+INFO - 2024-06-03 11:22:07,732 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:07,732 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:07,732 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:07,732 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:07,826 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:22:10,235 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:22:10,236 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:22:10,257 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:10,257 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:10,358 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:10,358 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:10,359 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:10,359 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:10,359 - server - serve - line:85 -  Finished server process [7910]
+INFO - 2024-06-03 11:22:10,359 - server - serve - line:85 -  Finished server process [7910]
+INFO - 2024-06-03 11:22:10,557 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:22:10,888 - server - serve - line:75 -  Started server process [8240]
+INFO - 2024-06-03 11:22:10,888 - server - serve - line:75 -  Started server process [8240]
+INFO - 2024-06-03 11:22:10,888 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:10,888 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:10,888 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:10,888 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:10,985 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:22:12,642 - main - _log_changes - line:297 -  3 changes detected
+WARNING - 2024-06-03 11:22:12,643 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:22:12,706 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:12,706 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:12,807 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:12,807 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:12,808 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:12,808 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:12,808 - server - serve - line:85 -  Finished server process [8240]
+INFO - 2024-06-03 11:22:12,808 - server - serve - line:85 -  Finished server process [8240]
+INFO - 2024-06-03 11:22:13,049 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:22:13,436 - server - serve - line:75 -  Started server process [8501]
+INFO - 2024-06-03 11:22:13,436 - server - serve - line:75 -  Started server process [8501]
+INFO - 2024-06-03 11:22:13,437 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:13,437 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:13,437 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:13,437 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:13,523 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:22:13,915 - httptools_impl - send - line:489 -  127.0.0.1:49851 - "POST /calculate/fixed/?start_period=10&interval=5 HTTP/1.1" 200
+INFO - 2024-06-03 11:22:13,915 - httptools_impl - send - line:489 -  127.0.0.1:49851 - "POST /calculate/fixed/?start_period=10&interval=5 HTTP/1.1" 200
+INFO - 2024-06-03 11:22:47,568 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:22:47,568 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:22:47,668 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:47,668 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:47,769 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:47,769 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:47,770 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:47,770 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:47,770 - server - serve - line:85 -  Finished server process [8501]
+INFO - 2024-06-03 11:22:47,770 - server - serve - line:85 -  Finished server process [8501]
+INFO - 2024-06-03 11:22:47,969 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:22:48,287 - server - serve - line:75 -  Started server process [12097]
+INFO - 2024-06-03 11:22:48,287 - server - serve - line:75 -  Started server process [12097]
+INFO - 2024-06-03 11:22:48,288 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:48,288 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:48,288 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:48,288 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:48,398 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:22:55,389 - main - _log_changes - line:297 -  6 changes detected
+WARNING - 2024-06-03 11:22:55,389 - basereload - run - line:47 -  WatchFiles detected changes in 'app.py'. Reloading...
+INFO - 2024-06-03 11:22:55,480 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:55,480 - server - shutdown - line:255 -  Shutting down
+INFO - 2024-06-03 11:22:55,581 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:55,581 - on - shutdown - line:66 -  Waiting for application shutdown.
+INFO - 2024-06-03 11:22:55,582 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:55,582 - on - shutdown - line:77 -  Application shutdown complete.
+INFO - 2024-06-03 11:22:55,582 - server - serve - line:85 -  Finished server process [12097]
+INFO - 2024-06-03 11:22:55,582 - server - serve - line:85 -  Finished server process [12097]
+INFO - 2024-06-03 11:22:55,774 - main - _log_changes - line:297 -  1 change detected
+INFO - 2024-06-03 11:22:56,053 - server - serve - line:75 -  Started server process [12902]
+INFO - 2024-06-03 11:22:56,053 - server - serve - line:75 -  Started server process [12902]
+INFO - 2024-06-03 11:22:56,053 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:56,053 - on - startup - line:47 -  Waiting for application startup.
+INFO - 2024-06-03 11:22:56,053 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:56,053 - on - startup - line:61 -  Application startup complete.
+INFO - 2024-06-03 11:22:56,145 - main - _log_changes - line:297 -  3 changes detected
+INFO - 2024-06-03 11:23:15,399 - httptools_impl - send - line:489 -  127.0.0.1:50184 - "POST /calculate/multi/?start_period=10&num_periods=5&interval=1 HTTP/1.1" 200
+INFO - 2024-06-03 11:23:15,399 - httptools_impl - send - line:489 -  127.0.0.1:50184 - "POST /calculate/multi/?start_period=10&num_periods=5&interval=1 HTTP/1.1" 200
+INFO - 2024-06-03 11:23:38,748 - httptools_impl - send - line:489 -  127.0.0.1:50297 - "POST /calculate/heatmap/?start_period=10&num_periods=5&interval=2 HTTP/1.1" 500
+INFO - 2024-06-03 11:23:38,748 - httptools_impl - send - line:489 -  127.0.0.1:50297 - "POST /calculate/heatmap/?start_period=10&num_periods=5&interval=2 HTTP/1.1" 500
+INFO - 2024-06-03 11:23:53,033 - httptools_impl - send - line:489 -  127.0.0.1:50378 - "POST /calculate/heatmap/?start_period=40&num_periods=5&interval=5 HTTP/1.1" 200
+INFO - 2024-06-03 11:23:53,033 - httptools_impl - send - line:489 -  127.0.0.1:50378 - "POST /calculate/heatmap/?start_period=40&num_periods=5&interval=5 HTTP/1.1" 200
+INFO - 2024-06-03 11:24:17,054 - main - _log_changes - line:297 -  6 changes detected
+ERROR - 2024-06-13 21:48:22,777 - utils - check_file_field - line:99 -  Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+INFO - 2024-06-13 21:48:52,425 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-13 21:48:52,426 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-13 21:48:52,427 - basereload - startup - line:79 -  Started reloader process [8792] using StatReload
+INFO - 2024-06-13 21:48:59,994 - server - _serve - line:82 -  Started server process [22540]
+INFO - 2024-06-13 21:48:59,994 - server - _serve - line:82 -  Started server process [22540]
+INFO - 2024-06-13 21:48:59,995 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-13 21:48:59,995 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-13 21:48:59,996 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-13 21:48:59,996 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-13 21:49:19,261 - h11_impl - send - line:466 -  127.0.0.1:56414 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-13 21:49:19,261 - h11_impl - send - line:466 -  127.0.0.1:56414 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-13 21:49:21,037 - h11_impl - send - line:466 -  127.0.0.1:56433 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-13 21:49:21,037 - h11_impl - send - line:466 -  127.0.0.1:56433 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-13 21:51:18,973 - h11_impl - send - line:466 -  127.0.0.1:56570 - "POST /calculate/fixed/?start_period=60&interval=1 HTTP/1.1" 500
+INFO - 2024-06-13 21:51:18,973 - h11_impl - send - line:466 -  127.0.0.1:56570 - "POST /calculate/fixed/?start_period=60&interval=1 HTTP/1.1" 500
+ERROR - 2024-06-13 21:51:18,976 - h11_impl - run_asgi - line:401 -  Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\compat\_optional.py", line 132, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 396, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\applications.py", line 289, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\exceptions.py", line 79, in __call__
+    raise exc
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 20, in __call__
+    raise e
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\routing.py", line 66, in app
+    response = await func(request)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\routing.py", line 190, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\55353\Desktop\color_ball_backend\app.py", line 88, in calculate_fixed_interval
+    df = await read_dataframe(file)
+  File "C:\Users\55353\Desktop\color_ball_backend\app.py", line 52, in read_dataframe
+    df = pd.read_excel(BytesIO(contents))
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\io\excel\_base.py", line 504, in read_excel
+    io = ExcelFile(
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\io\excel\_base.py", line 1580, in __init__
+    self._reader = self._engines[engine](
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\io\excel\_openpyxl.py", line 552, in __init__
+    import_optional_dependency("openpyxl")
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\compat\_optional.py", line 135, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+ERROR - 2024-06-13 21:51:18,976 - h11_impl - run_asgi - line:401 -  Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\compat\_optional.py", line 132, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'openpyxl'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 396, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\applications.py", line 289, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\errors.py", line 184, in __call__
+    raise exc
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\exceptions.py", line 79, in __call__
+    raise exc
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\middleware\exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 20, in __call__
+    raise e
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\middleware\asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\routing.py", line 66, in app
+    response = await func(request)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\fastapi\routing.py", line 190, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\55353\Desktop\color_ball_backend\app.py", line 88, in calculate_fixed_interval
+    df = await read_dataframe(file)
+  File "C:\Users\55353\Desktop\color_ball_backend\app.py", line 52, in read_dataframe
+    df = pd.read_excel(BytesIO(contents))
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\io\excel\_base.py", line 504, in read_excel
+    io = ExcelFile(
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\io\excel\_base.py", line 1580, in __init__
+    self._reader = self._engines[engine](
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\io\excel\_openpyxl.py", line 552, in __init__
+    import_optional_dependency("openpyxl")
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\pandas\compat\_optional.py", line 135, in import_optional_dependency
+    raise ImportError(msg)
+ImportError: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+INFO - 2024-06-13 21:51:54,899 - server - shutdown - line:258 -  Shutting down
+INFO - 2024-06-13 21:51:54,899 - server - shutdown - line:258 -  Shutting down
+INFO - 2024-06-13 21:51:55,007 - on - shutdown - line:67 -  Waiting for application shutdown.
+INFO - 2024-06-13 21:51:55,007 - on - shutdown - line:67 -  Waiting for application shutdown.
+INFO - 2024-06-13 21:51:55,008 - on - shutdown - line:76 -  Application shutdown complete.
+INFO - 2024-06-13 21:51:55,008 - on - shutdown - line:76 -  Application shutdown complete.
+INFO - 2024-06-13 21:51:55,009 - server - _serve - line:92 -  Finished server process [22540]
+INFO - 2024-06-13 21:51:55,009 - server - _serve - line:92 -  Finished server process [22540]
+INFO - 2024-06-13 21:51:55,041 - basereload - shutdown - line:111 -  Stopping reloader process [8792]
+INFO - 2024-06-13 21:52:00,486 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-13 21:52:00,487 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-13 21:52:00,488 - basereload - startup - line:79 -  Started reloader process [2180] using StatReload
+INFO - 2024-06-13 21:52:04,931 - server - _serve - line:82 -  Started server process [19068]
+INFO - 2024-06-13 21:52:04,931 - server - _serve - line:82 -  Started server process [19068]
+INFO - 2024-06-13 21:52:04,932 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-13 21:52:04,932 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-13 21:52:04,933 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-13 21:52:04,933 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-13 21:52:06,252 - h11_impl - send - line:466 -  127.0.0.1:56589 - "POST /calculate/fixed/?start_period=60&interval=1 HTTP/1.1" 200
+INFO - 2024-06-13 21:52:06,252 - h11_impl - send - line:466 -  127.0.0.1:56589 - "POST /calculate/fixed/?start_period=60&interval=1 HTTP/1.1" 200
+INFO - 2024-06-13 21:52:22,645 - h11_impl - send - line:466 -  127.0.0.1:56613 - "POST /calculate/fixed/?start_period=60&interval=10 HTTP/1.1" 200
+INFO - 2024-06-13 21:52:22,645 - h11_impl - send - line:466 -  127.0.0.1:56613 - "POST /calculate/fixed/?start_period=60&interval=10 HTTP/1.1" 200
+INFO - 2024-06-13 21:52:43,088 - h11_impl - send - line:466 -  127.0.0.1:56632 - "POST /calculate/multi/?start_period=60&num_periods=5&interval=5 HTTP/1.1" 200
+INFO - 2024-06-13 21:52:43,088 - h11_impl - send - line:466 -  127.0.0.1:56632 - "POST /calculate/multi/?start_period=60&num_periods=5&interval=5 HTTP/1.1" 200
+INFO - 2024-06-13 21:53:05,684 - h11_impl - send - line:466 -  127.0.0.1:56635 - "POST /calculate/heatmap/?start_period=60&num_periods=5&interval=5 HTTP/1.1" 200
+INFO - 2024-06-13 21:53:05,684 - h11_impl - send - line:466 -  127.0.0.1:56635 - "POST /calculate/heatmap/?start_period=60&num_periods=5&interval=5 HTTP/1.1" 200
+INFO - 2024-06-13 21:53:30,338 - h11_impl - send - line:466 -  127.0.0.1:56646 - "POST /calculate/multipliers/?start_period=60&interval=5&num_multipliers=5 HTTP/1.1" 200
+INFO - 2024-06-13 21:53:30,338 - h11_impl - send - line:466 -  127.0.0.1:56646 - "POST /calculate/multipliers/?start_period=60&interval=5&num_multipliers=5 HTTP/1.1" 200
+INFO - 2024-06-13 21:53:46,595 - h11_impl - send - line:466 -  127.0.0.1:56650 - "POST /calculate/accumulative/?start_period=60&interval=5 HTTP/1.1" 200
+INFO - 2024-06-13 21:53:46,595 - h11_impl - send - line:466 -  127.0.0.1:56650 - "POST /calculate/accumulative/?start_period=60&interval=5 HTTP/1.1" 200
+INFO - 2024-06-13 22:00:45,869 - server - shutdown - line:258 -  Shutting down
+INFO - 2024-06-13 22:00:45,869 - server - shutdown - line:258 -  Shutting down
+INFO - 2024-06-13 22:00:45,978 - on - shutdown - line:67 -  Waiting for application shutdown.
+INFO - 2024-06-13 22:00:45,978 - on - shutdown - line:67 -  Waiting for application shutdown.
+INFO - 2024-06-13 22:00:45,979 - on - shutdown - line:76 -  Application shutdown complete.
+INFO - 2024-06-13 22:00:45,979 - on - shutdown - line:76 -  Application shutdown complete.
+INFO - 2024-06-13 22:00:45,979 - server - _serve - line:92 -  Finished server process [19068]
+INFO - 2024-06-13 22:00:45,979 - server - _serve - line:92 -  Finished server process [19068]
+INFO - 2024-06-13 22:00:46,022 - basereload - shutdown - line:111 -  Stopping reloader process [2180]
+INFO - 2024-06-13 22:01:18,958 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-13 22:01:18,959 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-13 22:01:18,959 - basereload - startup - line:79 -  Started reloader process [22720] using StatReload
+INFO - 2024-06-13 22:01:22,261 - server - _serve - line:82 -  Started server process [14496]
+INFO - 2024-06-13 22:01:22,261 - server - _serve - line:82 -  Started server process [14496]
+INFO - 2024-06-13 22:01:22,262 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-13 22:01:22,262 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-13 22:01:22,262 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-13 22:01:22,262 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-13 22:01:35,313 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-13 22:01:35,314 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-13 22:01:35,314 - basereload - startup - line:79 -  Started reloader process [24244] using StatReload
+INFO - 2024-06-13 22:01:38,298 - server - _serve - line:82 -  Started server process [10816]
+INFO - 2024-06-13 22:01:38,298 - server - _serve - line:82 -  Started server process [10816]
+INFO - 2024-06-13 22:01:38,299 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-13 22:01:38,299 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-13 22:01:38,300 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-13 22:01:38,300 - on - startup - line:62 -  Application startup complete.
+ERROR - 2024-06-13 22:01:38,356 - on - send - line:134 -  Traceback (most recent call last):
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\server.py", line 68, in serve
+    with self.capture_signals():
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\contextlib.py", line 142, in __exit__
+    next(self.gen)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\server.py", line 328, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\routing.py", line 686, in lifespan
+    await receive()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+ERROR - 2024-06-13 22:01:38,356 - on - send - line:134 -  Traceback (most recent call last):
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\base_events.py", line 603, in run_forever
+    self._run_once()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\server.py", line 68, in serve
+    with self.capture_signals():
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\contextlib.py", line 142, in __exit__
+    next(self.gen)
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\server.py", line 328, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\starlette\routing.py", line 686, in lifespan
+    await receive()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+  File "C:\Users\55353\anaconda3\envs\color_ball\lib\asyncio\queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO - 2024-06-13 22:01:38,440 - basereload - shutdown - line:111 -  Stopping reloader process [24244]
+INFO - 2024-06-13 22:01:40,378 - server - shutdown - line:258 -  Shutting down
+INFO - 2024-06-13 22:01:40,378 - server - shutdown - line:258 -  Shutting down
+INFO - 2024-06-13 22:01:40,493 - on - shutdown - line:67 -  Waiting for application shutdown.
+INFO - 2024-06-13 22:01:40,493 - on - shutdown - line:67 -  Waiting for application shutdown.
+INFO - 2024-06-13 22:01:40,495 - on - shutdown - line:76 -  Application shutdown complete.
+INFO - 2024-06-13 22:01:40,495 - on - shutdown - line:76 -  Application shutdown complete.
+INFO - 2024-06-13 22:01:40,496 - server - _serve - line:92 -  Finished server process [14496]
+INFO - 2024-06-13 22:01:40,496 - server - _serve - line:92 -  Finished server process [14496]
+INFO - 2024-06-13 22:01:40,617 - basereload - shutdown - line:111 -  Stopping reloader process [22720]
+INFO - 2024-06-14 09:12:35,922 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-14 09:12:35,937 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-14 09:12:35,937 - basereload - startup - line:79 -  Started reloader process [7228] using StatReload
+INFO - 2024-06-14 09:12:41,039 - server - _serve - line:82 -  Started server process [9176]
+INFO - 2024-06-14 09:12:41,039 - server - _serve - line:82 -  Started server process [9176]
+INFO - 2024-06-14 09:12:41,055 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-14 09:12:41,055 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-14 09:12:41,055 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-14 09:12:41,055 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-14 09:13:59,712 - h11_impl - send - line:466 -  127.0.0.1:50599 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-14 09:13:59,712 - h11_impl - send - line:466 -  127.0.0.1:50599 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-14 09:14:01,172 - h11_impl - send - line:466 -  127.0.0.1:50618 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-14 09:14:01,172 - h11_impl - send - line:466 -  127.0.0.1:50618 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-14 09:15:11,273 - h11_impl - send - line:466 -  127.0.0.1:50740 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 09:15:11,273 - h11_impl - send - line:466 -  127.0.0.1:50740 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 09:43:47,570 - h11_impl - send - line:466 -  127.0.0.1:56636 - "OPTIONS /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 09:43:47,570 - h11_impl - send - line:466 -  127.0.0.1:56636 - "OPTIONS /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 09:43:47,637 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:47,637 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:48,842 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:48,842 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:48,976 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:48,976 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:49,106 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:49,106 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:50,417 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:50,417 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:50,571 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:50,571 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:50,705 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:50,705 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:51,139 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:51,139 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:51,274 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:51,274 - h11_impl - send - line:466 -  127.0.0.1:56636 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:57,371 - h11_impl - send - line:466 -  127.0.0.1:56638 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:43:57,371 - h11_impl - send - line:466 -  127.0.0.1:56638 - "POST /calculate/fixed/?start_period=1&interval=2 HTTP/1.1" 422
+INFO - 2024-06-14 09:49:02,684 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/fixed HTTP/1.1" 307
+INFO - 2024-06-14 09:49:02,684 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/fixed HTTP/1.1" 307
+INFO - 2024-06-14 09:49:02,716 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/fixed/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:02,716 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/fixed/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:06,219 - h11_impl - send - line:466 -  127.0.0.1:56879 - "OPTIONS /calculate/multi HTTP/1.1" 200
+INFO - 2024-06-14 09:49:06,219 - h11_impl - send - line:466 -  127.0.0.1:56879 - "OPTIONS /calculate/multi HTTP/1.1" 200
+INFO - 2024-06-14 09:49:06,224 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:06,224 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:06,229 - h11_impl - send - line:466 -  127.0.0.1:56879 - "OPTIONS /calculate/multi/ HTTP/1.1" 200
+INFO - 2024-06-14 09:49:06,229 - h11_impl - send - line:466 -  127.0.0.1:56879 - "OPTIONS /calculate/multi/ HTTP/1.1" 200
+INFO - 2024-06-14 09:49:06,234 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:06,234 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:07,401 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:07,401 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:07,405 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:07,405 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:07,553 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:07,553 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:07,557 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:07,557 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:08,088 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:08,088 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:08,092 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:08,092 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:08,305 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:08,305 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:08,308 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:08,308 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:08,689 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:08,689 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:08,694 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:08,694 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:09,024 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:09,024 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:49:09,028 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:49:09,028 - h11_impl - send - line:466 -  127.0.0.1:56879 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:02,282 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:02,282 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:02,285 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:02,285 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:03,313 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:03,313 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:03,317 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:03,317 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:03,448 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:03,448 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:03,452 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:03,452 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:04,105 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:04,105 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:04,127 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:04,127 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:04,240 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:04,240 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 09:53:04,248 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:53:04,248 - h11_impl - send - line:466 -  127.0.0.1:56987 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 09:54:06,469 - h11_impl - send - line:466 -  127.0.0.1:57024 - "POST /calculate/multi/?start_period=1&num_periods=2&interval=5 HTTP/1.1" 500
+INFO - 2024-06-14 09:54:06,469 - h11_impl - send - line:466 -  127.0.0.1:57024 - "POST /calculate/multi/?start_period=1&num_periods=2&interval=5 HTTP/1.1" 500
+INFO - 2024-06-14 09:55:09,459 - h11_impl - send - line:466 -  127.0.0.1:57040 - "POST /calculate/multi/?start_period=22&num_periods=2&interval=5 HTTP/1.1" 200
+INFO - 2024-06-14 09:55:09,459 - h11_impl - send - line:466 -  127.0.0.1:57040 - "POST /calculate/multi/?start_period=22&num_periods=2&interval=5 HTTP/1.1" 200
+INFO - 2024-06-14 10:00:50,983 - h11_impl - send - line:466 -  127.0.0.1:57130 - "POST /calculate/multi/?start_period=22100&num_periods=20&interval=15 HTTP/1.1" 422
+INFO - 2024-06-14 10:00:50,983 - h11_impl - send - line:466 -  127.0.0.1:57130 - "POST /calculate/multi/?start_period=22100&num_periods=20&interval=15 HTTP/1.1" 422
+INFO - 2024-06-14 10:01:47,255 - h11_impl - send - line:466 -  127.0.0.1:57139 - "POST /calculate/multi/?start_period=22000&num_periods=20&interval=15 HTTP/1.1" 422
+INFO - 2024-06-14 10:01:47,255 - h11_impl - send - line:466 -  127.0.0.1:57139 - "POST /calculate/multi/?start_period=22000&num_periods=20&interval=15 HTTP/1.1" 422
+INFO - 2024-06-14 10:02:02,190 - h11_impl - send - line:466 -  127.0.0.1:57141 - "POST /calculate/multi/?start_period=21000&num_periods=20&interval=15 HTTP/1.1" 422
+INFO - 2024-06-14 10:02:02,190 - h11_impl - send - line:466 -  127.0.0.1:57141 - "POST /calculate/multi/?start_period=21000&num_periods=20&interval=15 HTTP/1.1" 422
+INFO - 2024-06-14 10:40:14,563 - h11_impl - send - line:466 -  127.0.0.1:59428 - "OPTIONS /calculate/multi HTTP/1.1" 200
+INFO - 2024-06-14 10:40:14,563 - h11_impl - send - line:466 -  127.0.0.1:59428 - "OPTIONS /calculate/multi HTTP/1.1" 200
+INFO - 2024-06-14 10:40:14,579 - h11_impl - send - line:466 -  127.0.0.1:59428 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 10:40:14,579 - h11_impl - send - line:466 -  127.0.0.1:59428 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 10:40:14,579 - h11_impl - send - line:466 -  127.0.0.1:59428 - "OPTIONS /calculate/multi/ HTTP/1.1" 200
+INFO - 2024-06-14 10:40:14,579 - h11_impl - send - line:466 -  127.0.0.1:59428 - "OPTIONS /calculate/multi/ HTTP/1.1" 200
+INFO - 2024-06-14 10:40:14,594 - h11_impl - send - line:466 -  127.0.0.1:59428 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 10:40:14,594 - h11_impl - send - line:466 -  127.0.0.1:59428 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 10:40:16,069 - h11_impl - send - line:466 -  127.0.0.1:59428 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 10:40:16,069 - h11_impl - send - line:466 -  127.0.0.1:59428 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 10:40:16,099 - h11_impl - send - line:466 -  127.0.0.1:59428 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 10:40:16,099 - h11_impl - send - line:466 -  127.0.0.1:59428 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 10:40:25,135 - h11_impl - send - line:466 -  127.0.0.1:59431 - "POST /calculate/fixed HTTP/1.1" 307
+INFO - 2024-06-14 10:40:25,135 - h11_impl - send - line:466 -  127.0.0.1:59431 - "POST /calculate/fixed HTTP/1.1" 307
+INFO - 2024-06-14 10:40:25,173 - h11_impl - send - line:466 -  127.0.0.1:59431 - "POST /calculate/fixed/ HTTP/1.1" 422
+INFO - 2024-06-14 10:40:25,173 - h11_impl - send - line:466 -  127.0.0.1:59431 - "POST /calculate/fixed/ HTTP/1.1" 422
+INFO - 2024-06-14 10:40:30,548 - h11_impl - send - line:466 -  127.0.0.1:59432 - "POST /calculate/fixed HTTP/1.1" 307
+INFO - 2024-06-14 10:40:30,548 - h11_impl - send - line:466 -  127.0.0.1:59432 - "POST /calculate/fixed HTTP/1.1" 307
+INFO - 2024-06-14 10:40:30,568 - h11_impl - send - line:466 -  127.0.0.1:59432 - "POST /calculate/fixed/ HTTP/1.1" 422
+INFO - 2024-06-14 10:40:30,568 - h11_impl - send - line:466 -  127.0.0.1:59432 - "POST /calculate/fixed/ HTTP/1.1" 422
+INFO - 2024-06-14 10:44:47,040 - h11_impl - send - line:466 -  127.0.0.1:59706 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 10:44:47,040 - h11_impl - send - line:466 -  127.0.0.1:59706 - "POST /calculate/multi HTTP/1.1" 307
+INFO - 2024-06-14 10:44:47,048 - h11_impl - send - line:466 -  127.0.0.1:59706 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 10:44:47,048 - h11_impl - send - line:466 -  127.0.0.1:59706 - "POST /calculate/multi/ HTTP/1.1" 422
+INFO - 2024-06-14 10:45:08,950 - h11_impl - send - line:466 -  127.0.0.1:59712 - "POST /calculate/multi/?start_period=40&num_periods=5&interval=15 HTTP/1.1" 500
+INFO - 2024-06-14 10:45:08,950 - h11_impl - send - line:466 -  127.0.0.1:59712 - "POST /calculate/multi/?start_period=40&num_periods=5&interval=15 HTTP/1.1" 500
+INFO - 2024-06-14 12:01:44,961 - h11_impl - send - line:466 -  127.0.0.1:61913 - "POST /calculate/multi/?start_period=40&num_periods=5&interval=15 HTTP/1.1" 500
+INFO - 2024-06-14 12:01:44,961 - h11_impl - send - line:466 -  127.0.0.1:61913 - "POST /calculate/multi/?start_period=40&num_periods=5&interval=15 HTTP/1.1" 500
+INFO - 2024-06-14 12:01:53,185 - h11_impl - send - line:466 -  127.0.0.1:61914 - "POST /calculate/multi/?start_period=15&num_periods=5&interval=15 HTTP/1.1" 500
+INFO - 2024-06-14 12:01:53,185 - h11_impl - send - line:466 -  127.0.0.1:61914 - "POST /calculate/multi/?start_period=15&num_periods=5&interval=15 HTTP/1.1" 500
+INFO - 2024-06-14 12:02:08,029 - h11_impl - send - line:466 -  127.0.0.1:61917 - "POST /calculate/multi/?start_period=15&num_periods=5&interval=5 HTTP/1.1" 500
+INFO - 2024-06-14 12:02:08,029 - h11_impl - send - line:466 -  127.0.0.1:61917 - "POST /calculate/multi/?start_period=15&num_periods=5&interval=5 HTTP/1.1" 500
+INFO - 2024-06-14 12:02:13,585 - h11_impl - send - line:466 -  127.0.0.1:61920 - "POST /calculate/multi/?start_period=15&num_periods=5&interval=10 HTTP/1.1" 500
+INFO - 2024-06-14 12:02:13,585 - h11_impl - send - line:466 -  127.0.0.1:61920 - "POST /calculate/multi/?start_period=15&num_periods=5&interval=10 HTTP/1.1" 500
+INFO - 2024-06-14 12:02:19,510 - h11_impl - send - line:466 -  127.0.0.1:61920 - "POST /calculate/multi/?start_period=15&num_periods=15&interval=10 HTTP/1.1" 500
+INFO - 2024-06-14 12:02:19,510 - h11_impl - send - line:466 -  127.0.0.1:61920 - "POST /calculate/multi/?start_period=15&num_periods=15&interval=10 HTTP/1.1" 500
+INFO - 2024-06-14 12:02:53,081 - h11_impl - send - line:466 -  127.0.0.1:61929 - "POST /calculate/multi/?start_period=15&num_periods=10&interval=10 HTTP/1.1" 500
+INFO - 2024-06-14 12:02:53,081 - h11_impl - send - line:466 -  127.0.0.1:61929 - "POST /calculate/multi/?start_period=15&num_periods=10&interval=10 HTTP/1.1" 500
+INFO - 2024-06-14 12:03:03,388 - h11_impl - send - line:466 -  127.0.0.1:61932 - "POST /calculate/multi/?start_period=5&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 12:03:03,388 - h11_impl - send - line:466 -  127.0.0.1:61932 - "POST /calculate/multi/?start_period=5&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 13:05:41,547 - h11_impl - send - line:466 -  127.0.0.1:63570 - "POST /calculate/heatmap/?start_period=3&num_periods=1&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 13:05:41,547 - h11_impl - send - line:466 -  127.0.0.1:63570 - "POST /calculate/heatmap/?start_period=3&num_periods=1&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 14:45:11,893 - h11_impl - send - line:466 -  127.0.0.1:51115 - "POST /calculate/multi/?start_period=5&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 14:45:11,893 - h11_impl - send - line:466 -  127.0.0.1:51115 - "POST /calculate/multi/?start_period=5&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 14:45:31,737 - h11_impl - send - line:466 -  127.0.0.1:51118 - "POST /calculate/multi/?start_period=5&num_periods=2&interval=3 HTTP/1.1" 200
+INFO - 2024-06-14 14:45:31,737 - h11_impl - send - line:466 -  127.0.0.1:51118 - "POST /calculate/multi/?start_period=5&num_periods=2&interval=3 HTTP/1.1" 200
+INFO - 2024-06-14 14:45:40,337 - h11_impl - send - line:466 -  127.0.0.1:51119 - "POST /calculate/multi/?start_period=5&num_periods=4&interval=4 HTTP/1.1" 500
+INFO - 2024-06-14 14:45:40,337 - h11_impl - send - line:466 -  127.0.0.1:51119 - "POST /calculate/multi/?start_period=5&num_periods=4&interval=4 HTTP/1.1" 500
+INFO - 2024-06-14 14:45:47,060 - h11_impl - send - line:466 -  127.0.0.1:51134 - "POST /calculate/multi/?start_period=5&num_periods=3&interval=4 HTTP/1.1" 500
+INFO - 2024-06-14 14:45:47,060 - h11_impl - send - line:466 -  127.0.0.1:51134 - "POST /calculate/multi/?start_period=5&num_periods=3&interval=4 HTTP/1.1" 500
+INFO - 2024-06-14 14:45:52,581 - h11_impl - send - line:466 -  127.0.0.1:51136 - "POST /calculate/multi/?start_period=12&num_periods=3&interval=4 HTTP/1.1" 200
+INFO - 2024-06-14 14:45:52,581 - h11_impl - send - line:466 -  127.0.0.1:51136 - "POST /calculate/multi/?start_period=12&num_periods=3&interval=4 HTTP/1.1" 200
+INFO - 2024-06-14 17:50:05,790 - h11_impl - send - line:466 -  127.0.0.1:55294 - "POST /calculate/multi/?start_period=25&num_periods=3&interval=4 HTTP/1.1" 200
+INFO - 2024-06-14 17:50:05,790 - h11_impl - send - line:466 -  127.0.0.1:55294 - "POST /calculate/multi/?start_period=25&num_periods=3&interval=4 HTTP/1.1" 200
+INFO - 2024-06-14 17:50:38,891 - h11_impl - send - line:466 -  127.0.0.1:55318 - "POST /calculate/multi/?start_period=25&num_periods=10&interval=4 HTTP/1.1" 500
+INFO - 2024-06-14 17:50:38,891 - h11_impl - send - line:466 -  127.0.0.1:55318 - "POST /calculate/multi/?start_period=25&num_periods=10&interval=4 HTTP/1.1" 500
+INFO - 2024-06-14 17:50:48,395 - h11_impl - send - line:466 -  127.0.0.1:55319 - "POST /calculate/multi/?start_period=25&num_periods=10&interval=8 HTTP/1.1" 500
+INFO - 2024-06-14 17:50:48,395 - h11_impl - send - line:466 -  127.0.0.1:55319 - "POST /calculate/multi/?start_period=25&num_periods=10&interval=8 HTTP/1.1" 500
+INFO - 2024-06-14 17:50:56,600 - h11_impl - send - line:466 -  127.0.0.1:55321 - "POST /calculate/multi/?start_period=25&num_periods=9&interval=8 HTTP/1.1" 500
+INFO - 2024-06-14 17:50:56,600 - h11_impl - send - line:466 -  127.0.0.1:55321 - "POST /calculate/multi/?start_period=25&num_periods=9&interval=8 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:01,760 - h11_impl - send - line:466 -  127.0.0.1:55323 - "POST /calculate/multi/?start_period=25&num_periods=7&interval=8 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:01,760 - h11_impl - send - line:466 -  127.0.0.1:55323 - "POST /calculate/multi/?start_period=25&num_periods=7&interval=8 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:06,319 - h11_impl - send - line:466 -  127.0.0.1:55323 - "POST /calculate/multi/?start_period=25&num_periods=15&interval=8 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:06,319 - h11_impl - send - line:466 -  127.0.0.1:55323 - "POST /calculate/multi/?start_period=25&num_periods=15&interval=8 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:15,896 - h11_impl - send - line:466 -  127.0.0.1:55325 - "POST /calculate/multi/?start_period=25&num_periods=15&interval=12 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:15,896 - h11_impl - send - line:466 -  127.0.0.1:55325 - "POST /calculate/multi/?start_period=25&num_periods=15&interval=12 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:20,546 - h11_impl - send - line:466 -  127.0.0.1:55325 - "POST /calculate/multi/?start_period=25&num_periods=15&interval=6 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:20,546 - h11_impl - send - line:466 -  127.0.0.1:55325 - "POST /calculate/multi/?start_period=25&num_periods=15&interval=6 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:30,130 - h11_impl - send - line:466 -  127.0.0.1:55328 - "POST /calculate/multi/?start_period=24&num_periods=10&interval=6 HTTP/1.1" 500
+INFO - 2024-06-14 17:51:30,130 - h11_impl - send - line:466 -  127.0.0.1:55328 - "POST /calculate/multi/?start_period=24&num_periods=10&interval=6 HTTP/1.1" 500
+INFO - 2024-06-14 17:52:38,573 - h11_impl - send - line:466 -  127.0.0.1:55350 - "POST /calculate/multi/?start_period=12&num_periods=8&interval=4 HTTP/1.1" 500
+INFO - 2024-06-14 17:52:38,573 - h11_impl - send - line:466 -  127.0.0.1:55350 - "POST /calculate/multi/?start_period=12&num_periods=8&interval=4 HTTP/1.1" 500
+INFO - 2024-06-14 17:53:09,914 - h11_impl - send - line:466 -  127.0.0.1:55351 - "POST /calculate/multi/?start_period=15&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-14 17:53:09,914 - h11_impl - send - line:466 -  127.0.0.1:55351 - "POST /calculate/multi/?start_period=15&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-15 11:41:16,574 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-15 11:41:16,582 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-15 11:41:16,583 - basereload - startup - line:79 -  Started reloader process [20024] using StatReload
+INFO - 2024-06-15 11:41:26,244 - server - _serve - line:82 -  Started server process [6684]
+INFO - 2024-06-15 11:41:26,244 - server - _serve - line:82 -  Started server process [6684]
+INFO - 2024-06-15 11:41:26,244 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-15 11:41:26,244 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-15 11:41:26,244 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-15 11:41:26,244 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-15 11:41:50,991 - h11_impl - send - line:466 -  127.0.0.1:63359 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-15 11:41:50,991 - h11_impl - send - line:466 -  127.0.0.1:63359 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-15 11:41:52,015 - h11_impl - send - line:466 -  127.0.0.1:63359 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-15 11:41:52,015 - h11_impl - send - line:466 -  127.0.0.1:63359 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-15 11:44:25,059 - h11_impl - send - line:466 -  127.0.0.1:63468 - "POST /calculate/fixed/?start_period=3&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 11:44:25,059 - h11_impl - send - line:466 -  127.0.0.1:63468 - "POST /calculate/fixed/?start_period=3&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:03:23,854 - h11_impl - send - line:466 -  127.0.0.1:50581 - "POST /calculate/multi/?start_period=3&num_periods=1&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:03:23,854 - h11_impl - send - line:466 -  127.0.0.1:50581 - "POST /calculate/multi/?start_period=3&num_periods=1&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:04:12,882 - h11_impl - send - line:466 -  127.0.0.1:50590 - "POST /calculate/fixed/?start_period=2&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:04:12,882 - h11_impl - send - line:466 -  127.0.0.1:50590 - "POST /calculate/fixed/?start_period=2&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:10:06,384 - h11_impl - send - line:466 -  127.0.0.1:50698 - "POST /calculate/fixed/?start_period=2&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:10:06,384 - h11_impl - send - line:466 -  127.0.0.1:50698 - "POST /calculate/fixed/?start_period=2&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:10:06,637 - h11_impl - send - line:466 -  127.0.0.1:50698 - "POST /calculate/fixed/?start_period=2&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:10:06,637 - h11_impl - send - line:466 -  127.0.0.1:50698 - "POST /calculate/fixed/?start_period=2&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:43:05,568 - h11_impl - send - line:466 -  127.0.0.1:51822 - "POST /calculate/multi/?start_period=3&num_periods=1&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 13:43:05,568 - h11_impl - send - line:466 -  127.0.0.1:51822 - "POST /calculate/multi/?start_period=3&num_periods=1&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 15:54:58,744 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-15 15:54:58,747 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-15 15:54:58,748 - basereload - startup - line:79 -  Started reloader process [6584] using StatReload
+INFO - 2024-06-15 15:55:08,425 - server - _serve - line:82 -  Started server process [6276]
+INFO - 2024-06-15 15:55:08,425 - server - _serve - line:82 -  Started server process [6276]
+INFO - 2024-06-15 15:55:08,425 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-15 15:55:08,425 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-15 15:55:08,425 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-15 15:55:08,425 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-15 15:55:33,834 - h11_impl - send - line:466 -  127.0.0.1:50794 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-15 15:55:33,834 - h11_impl - send - line:466 -  127.0.0.1:50794 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-15 15:55:34,191 - h11_impl - send - line:466 -  127.0.0.1:50794 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-15 15:55:34,191 - h11_impl - send - line:466 -  127.0.0.1:50794 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-15 15:57:48,017 - h11_impl - send - line:466 -  127.0.0.1:51201 - "POST /calculate/accumulative/?start_period=5&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 15:57:48,017 - h11_impl - send - line:466 -  127.0.0.1:51201 - "POST /calculate/accumulative/?start_period=5&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 17:28:50,847 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-15 17:28:50,848 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-15 17:28:50,849 - basereload - startup - line:79 -  Started reloader process [19652] using StatReload
+INFO - 2024-06-15 17:28:53,471 - server - _serve - line:82 -  Started server process [13456]
+INFO - 2024-06-15 17:28:53,471 - server - _serve - line:82 -  Started server process [13456]
+INFO - 2024-06-15 17:28:53,472 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-15 17:28:53,472 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-15 17:28:53,473 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-15 17:28:53,473 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-15 17:29:31,150 - h11_impl - send - line:466 -  127.0.0.1:52821 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-15 17:29:31,150 - h11_impl - send - line:466 -  127.0.0.1:52821 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-15 17:29:32,202 - h11_impl - send - line:466 -  127.0.0.1:52821 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-15 17:29:32,202 - h11_impl - send - line:466 -  127.0.0.1:52821 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-15 17:30:11,869 - h11_impl - send - line:466 -  127.0.0.1:52905 - "POST /calculate/fixed/?start_period=10&interval=1 HTTP/1.1" 200
+INFO - 2024-06-15 17:30:11,869 - h11_impl - send - line:466 -  127.0.0.1:52905 - "POST /calculate/fixed/?start_period=10&interval=1 HTTP/1.1" 200
+INFO - 2024-06-16 09:40:01,496 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-16 09:40:01,499 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-16 09:40:01,499 - basereload - startup - line:79 -  Started reloader process [16832] using StatReload
+INFO - 2024-06-16 09:40:07,321 - server - _serve - line:82 -  Started server process [16488]
+INFO - 2024-06-16 09:40:07,321 - server - _serve - line:82 -  Started server process [16488]
+INFO - 2024-06-16 09:40:07,324 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-16 09:40:07,324 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-16 09:40:07,329 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-16 09:40:07,329 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-16 09:41:27,483 - h11_impl - send - line:466 -  127.0.0.1:59114 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-16 09:41:27,483 - h11_impl - send - line:466 -  127.0.0.1:59114 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-16 09:41:28,467 - h11_impl - send - line:466 -  127.0.0.1:59114 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-16 09:41:28,467 - h11_impl - send - line:466 -  127.0.0.1:59114 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-16 09:42:18,143 - h11_impl - send - line:466 -  127.0.0.1:59352 - "POST /calculate/multi/?start_period=3&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:42:18,143 - h11_impl - send - line:466 -  127.0.0.1:59352 - "POST /calculate/multi/?start_period=3&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:42:39,028 - h11_impl - send - line:466 -  127.0.0.1:59373 - "POST /calculate/fixed/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:42:39,028 - h11_impl - send - line:466 -  127.0.0.1:59373 - "POST /calculate/fixed/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:43:13,618 - h11_impl - send - line:466 -  127.0.0.1:59411 - "POST /calculate/fixed/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:43:13,618 - h11_impl - send - line:466 -  127.0.0.1:59411 - "POST /calculate/fixed/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:43:16,124 - h11_impl - send - line:466 -  127.0.0.1:59412 - "GET /calculate/fixed/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 405
+INFO - 2024-06-16 09:43:16,124 - h11_impl - send - line:466 -  127.0.0.1:59412 - "GET /calculate/fixed/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 405
+INFO - 2024-06-16 09:43:16,280 - h11_impl - send - line:466 -  127.0.0.1:59412 - "GET /favicon.ico HTTP/1.1" 404
+INFO - 2024-06-16 09:43:16,280 - h11_impl - send - line:466 -  127.0.0.1:59412 - "GET /favicon.ico HTTP/1.1" 404
+INFO - 2024-06-16 09:43:28,471 - h11_impl - send - line:466 -  127.0.0.1:59443 - "POST /calculate/fixed/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:43:28,471 - h11_impl - send - line:466 -  127.0.0.1:59443 - "POST /calculate/fixed/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:44:21,094 - h11_impl - send - line:466 -  127.0.0.1:59479 - "POST /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:44:21,094 - h11_impl - send - line:466 -  127.0.0.1:59479 - "POST /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:45:52,384 - h11_impl - send - line:466 -  127.0.0.1:59583 - "POST /calculate/multi/?start_period=3&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:45:52,384 - h11_impl - send - line:466 -  127.0.0.1:59583 - "POST /calculate/multi/?start_period=3&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:48:00,759 - h11_impl - send - line:466 -  127.0.0.1:59830 - "POST /calculate/fixed/?start_period=3&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:48:00,759 - h11_impl - send - line:466 -  127.0.0.1:59830 - "POST /calculate/fixed/?start_period=3&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:50:39,838 - h11_impl - send - line:466 -  127.0.0.1:60032 - "POST /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:50:39,838 - h11_impl - send - line:466 -  127.0.0.1:60032 - "POST /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:51:06,618 - h11_impl - send - line:466 -  127.0.0.1:60050 - "GET /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 405
+INFO - 2024-06-16 09:51:06,618 - h11_impl - send - line:466 -  127.0.0.1:60050 - "GET /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 405
+INFO - 2024-06-16 09:51:43,160 - h11_impl - send - line:466 -  127.0.0.1:60089 - "POST /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:51:43,160 - h11_impl - send - line:466 -  127.0.0.1:60089 - "POST /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:51:44,992 - h11_impl - send - line:466 -  127.0.0.1:60089 - "POST /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:51:44,992 - h11_impl - send - line:466 -  127.0.0.1:60089 - "POST /calculate/fixed/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:53:06,717 - h11_impl - send - line:466 -  127.0.0.1:60252 - "POST /calculate/multi/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 09:53:06,717 - h11_impl - send - line:466 -  127.0.0.1:60252 - "POST /calculate/multi/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:07:34,084 - h11_impl - send - line:466 -  127.0.0.1:50048 - "POST /calculate/multi/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:07:34,084 - h11_impl - send - line:466 -  127.0.0.1:50048 - "POST /calculate/multi/?start_period=3&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:07:47,815 - h11_impl - send - line:466 -  127.0.0.1:50067 - "POST /calculate/multi/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:07:47,815 - h11_impl - send - line:466 -  127.0.0.1:50067 - "POST /calculate/multi/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:08:01,111 - h11_impl - send - line:466 -  127.0.0.1:50069 - "POST /calculate/multi/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:08:01,111 - h11_impl - send - line:466 -  127.0.0.1:50069 - "POST /calculate/multi/?start_period=3&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:08:04,956 - h11_impl - send - line:466 -  127.0.0.1:50071 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:08:04,956 - h11_impl - send - line:466 -  127.0.0.1:50071 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 11:08:14,815 - h11_impl - send - line:466 -  127.0.0.1:50072 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=3 HTTP/1.1" 200
+INFO - 2024-06-16 11:08:14,815 - h11_impl - send - line:466 -  127.0.0.1:50072 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=3 HTTP/1.1" 200
+INFO - 2024-06-16 11:08:21,084 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:21,084 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:23,150 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:23,150 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:23,450 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:23,450 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:26,644 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:26,644 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:27,685 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:27,685 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:27,833 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:27,833 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:28,012 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:28,012 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:28,180 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:28,180 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:28,364 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:28,364 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:28,830 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:28,830 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:29,140 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:29,140 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:30,021 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:30,021 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:30,534 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:30,534 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:30,699 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:30,699 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:30,846 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:30,846 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:31,039 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:31,039 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:31,316 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:31,316 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:31,568 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:31,568 - h11_impl - send - line:466 -  127.0.0.1:50074 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:50,663 - h11_impl - send - line:466 -  127.0.0.1:50091 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:08:50,663 - h11_impl - send - line:466 -  127.0.0.1:50091 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:17:37,459 - h11_impl - send - line:466 -  127.0.0.1:50784 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:17:37,459 - h11_impl - send - line:466 -  127.0.0.1:50784 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:18:44,540 - h11_impl - send - line:466 -  127.0.0.1:50933 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:18:44,540 - h11_impl - send - line:466 -  127.0.0.1:50933 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:18:46,377 - h11_impl - send - line:466 -  127.0.0.1:50935 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:18:46,377 - h11_impl - send - line:466 -  127.0.0.1:50935 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:24:06,149 - h11_impl - send - line:466 -  127.0.0.1:51359 - "POST /calculate/multi/?start_period=4&num_periods=3&interval=10 HTTP/1.1" 500
+INFO - 2024-06-16 11:24:06,149 - h11_impl - send - line:466 -  127.0.0.1:51359 - "POST /calculate/multi/?start_period=4&num_periods=3&interval=10 HTTP/1.1" 500
+INFO - 2024-06-16 11:40:33,527 - h11_impl - send - line:466 -  127.0.0.1:52819 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:40:33,527 - h11_impl - send - line:466 -  127.0.0.1:52819 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:40:37,712 - h11_impl - send - line:466 -  127.0.0.1:52819 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:40:37,712 - h11_impl - send - line:466 -  127.0.0.1:52819 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:40:42,926 - h11_impl - send - line:466 -  127.0.0.1:52827 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:40:42,926 - h11_impl - send - line:466 -  127.0.0.1:52827 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:32,976 - h11_impl - send - line:466 -  127.0.0.1:53217 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:32,976 - h11_impl - send - line:466 -  127.0.0.1:53217 - "POST /calculate/multi/?start_period=4&interval=10&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:39,653 - h11_impl - send - line:466 -  127.0.0.1:53227 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:39,653 - h11_impl - send - line:466 -  127.0.0.1:53227 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:47,281 - h11_impl - send - line:466 -  127.0.0.1:53233 - "POST /calculate/multi/?start_period=4&interval=3&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:47,281 - h11_impl - send - line:466 -  127.0.0.1:53233 - "POST /calculate/multi/?start_period=4&interval=3&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:51,529 - h11_impl - send - line:466 -  127.0.0.1:53238 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:51,529 - h11_impl - send - line:466 -  127.0.0.1:53238 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:46:55,573 - h11_impl - send - line:466 -  127.0.0.1:53238 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=3 HTTP/1.1" 200
+INFO - 2024-06-16 11:46:55,573 - h11_impl - send - line:466 -  127.0.0.1:53238 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=3 HTTP/1.1" 200
+INFO - 2024-06-16 11:49:34,627 - h11_impl - send - line:466 -  127.0.0.1:53470 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=3 HTTP/1.1" 200
+INFO - 2024-06-16 11:49:34,627 - h11_impl - send - line:466 -  127.0.0.1:53470 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=3 HTTP/1.1" 200
+INFO - 2024-06-16 11:49:36,432 - h11_impl - send - line:466 -  127.0.0.1:53470 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=3 HTTP/1.1" 200
+INFO - 2024-06-16 11:49:36,432 - h11_impl - send - line:466 -  127.0.0.1:53470 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=3 HTTP/1.1" 200
+INFO - 2024-06-16 11:49:41,325 - h11_impl - send - line:466 -  127.0.0.1:53477 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:49:41,325 - h11_impl - send - line:466 -  127.0.0.1:53477 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:49:59,745 - h11_impl - send - line:466 -  127.0.0.1:53488 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:49:59,745 - h11_impl - send - line:466 -  127.0.0.1:53488 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:50:03,246 - h11_impl - send - line:466 -  127.0.0.1:53488 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:50:03,246 - h11_impl - send - line:466 -  127.0.0.1:53488 - "POST /calculate/multi/?start_period=4&interval=2&num_periods=3 HTTP/1.1" 500
+INFO - 2024-06-16 11:51:38,853 - h11_impl - send - line:466 -  127.0.0.1:53503 - "POST /calculate/multi/?start_period=22&num_periods=3&interval=10 HTTP/1.1" 200
+INFO - 2024-06-16 11:51:38,853 - h11_impl - send - line:466 -  127.0.0.1:53503 - "POST /calculate/multi/?start_period=22&num_periods=3&interval=10 HTTP/1.1" 200
+INFO - 2024-06-16 11:51:47,665 - h11_impl - send - line:466 -  127.0.0.1:53506 - "POST /calculate/multi/?start_period=22&num_periods=3&interval=24 HTTP/1.1" 500
+INFO - 2024-06-16 11:51:47,665 - h11_impl - send - line:466 -  127.0.0.1:53506 - "POST /calculate/multi/?start_period=22&num_periods=3&interval=24 HTTP/1.1" 500
+INFO - 2024-06-16 12:14:54,772 - h11_impl - send - line:466 -  127.0.0.1:54159 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:14:54,772 - h11_impl - send - line:466 -  127.0.0.1:54159 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:04,406 - h11_impl - send - line:466 -  127.0.0.1:54161 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:04,406 - h11_impl - send - line:466 -  127.0.0.1:54161 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:05,719 - h11_impl - send - line:466 -  127.0.0.1:54161 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:05,719 - h11_impl - send - line:466 -  127.0.0.1:54161 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:06,388 - h11_impl - send - line:466 -  127.0.0.1:54161 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:06,388 - h11_impl - send - line:466 -  127.0.0.1:54161 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:07,090 - h11_impl - send - line:466 -  127.0.0.1:54161 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:07,090 - h11_impl - send - line:466 -  127.0.0.1:54161 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:12,279 - h11_impl - send - line:466 -  127.0.0.1:54163 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:12,279 - h11_impl - send - line:466 -  127.0.0.1:54163 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 12:15:53,138 - h11_impl - send - line:466 -  127.0.0.1:54174 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:15:53,138 - h11_impl - send - line:466 -  127.0.0.1:54174 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:19:36,530 - h11_impl - send - line:466 -  127.0.0.1:54474 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:19:36,530 - h11_impl - send - line:466 -  127.0.0.1:54474 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:19:38,145 - h11_impl - send - line:466 -  127.0.0.1:54474 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:19:38,145 - h11_impl - send - line:466 -  127.0.0.1:54474 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:21:02,086 - h11_impl - send - line:466 -  127.0.0.1:54685 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:21:02,086 - h11_impl - send - line:466 -  127.0.0.1:54685 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:21:28,140 - h11_impl - send - line:466 -  127.0.0.1:54721 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:21:28,140 - h11_impl - send - line:466 -  127.0.0.1:54721 - "POST /calculate/multi/?start_period=60&interval=7&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 12:44:36,301 - h11_impl - send - line:466 -  127.0.0.1:58259 - "POST /calculate/multi/?start_period=6&interval=3&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 12:44:36,301 - h11_impl - send - line:466 -  127.0.0.1:58259 - "POST /calculate/multi/?start_period=6&interval=3&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 12:45:52,004 - h11_impl - send - line:466 -  127.0.0.1:58379 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 12:45:52,004 - h11_impl - send - line:466 -  127.0.0.1:58379 - "POST /calculate/multi/?start_period=4&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 12:46:03,735 - h11_impl - send - line:466 -  127.0.0.1:58385 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:46:03,735 - h11_impl - send - line:466 -  127.0.0.1:58385 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:46:05,217 - h11_impl - send - line:466 -  127.0.0.1:58385 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:46:05,217 - h11_impl - send - line:466 -  127.0.0.1:58385 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:46:06,897 - h11_impl - send - line:466 -  127.0.0.1:58385 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:46:06,897 - h11_impl - send - line:466 -  127.0.0.1:58385 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:51:11,460 - h11_impl - send - line:466 -  127.0.0.1:58737 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:51:11,460 - h11_impl - send - line:466 -  127.0.0.1:58737 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:51:14,177 - h11_impl - send - line:466 -  127.0.0.1:58741 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 12:51:14,177 - h11_impl - send - line:466 -  127.0.0.1:58741 - "POST /calculate/multi/?start_period=4&interval=4&num_periods=2 HTTP/1.1" 500
+INFO - 2024-06-16 14:12:06,338 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-16 14:12:06,340 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-16 14:12:06,340 - basereload - startup - line:79 -  Started reloader process [4784] using StatReload
+INFO - 2024-06-16 14:12:14,239 - server - _serve - line:82 -  Started server process [4692]
+INFO - 2024-06-16 14:12:14,239 - server - _serve - line:82 -  Started server process [4692]
+INFO - 2024-06-16 14:12:14,240 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-16 14:12:14,240 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-16 14:12:14,242 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-16 14:12:14,242 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-16 14:13:36,353 - h11_impl - send - line:466 -  127.0.0.1:51117 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-16 14:13:36,353 - h11_impl - send - line:466 -  127.0.0.1:51117 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-16 14:14:13,427 - h11_impl - send - line:466 -  127.0.0.1:51455 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 422
+INFO - 2024-06-16 14:14:13,427 - h11_impl - send - line:466 -  127.0.0.1:51455 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 422
+INFO - 2024-06-16 14:14:21,710 - h11_impl - send - line:466 -  127.0.0.1:51481 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 14:14:21,710 - h11_impl - send - line:466 -  127.0.0.1:51481 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 15:31:31,590 - h11_impl - send - line:466 -  192.168.0.173:49154 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 15:31:31,590 - h11_impl - send - line:466 -  192.168.0.173:49154 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 15:47:07,615 - h11_impl - send - line:466 -  192.168.0.173:50492 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 15:47:07,615 - h11_impl - send - line:466 -  192.168.0.173:50492 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 15:48:48,313 - h11_impl - send - line:466 -  192.168.0.173:60537 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 15:48:48,313 - h11_impl - send - line:466 -  192.168.0.173:60537 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 15:49:18,942 - h11_impl - send - line:466 -  192.168.0.173:51178 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 15:49:18,942 - h11_impl - send - line:466 -  192.168.0.173:51178 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 15:49:26,218 - h11_impl - send - line:466 -  192.168.0.173:51185 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 15:49:26,218 - h11_impl - send - line:466 -  192.168.0.173:51185 - "POST /calculate/multi/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 17:08:13,361 - h11_impl - send - line:466 -  192.168.0.4:60046 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=8 HTTP/1.1" 500
+INFO - 2024-06-16 17:08:13,361 - h11_impl - send - line:466 -  192.168.0.4:60046 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=8 HTTP/1.1" 500
+INFO - 2024-06-16 17:08:48,757 - h11_impl - send - line:466 -  192.168.0.4:60091 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=8 HTTP/1.1" 500
+INFO - 2024-06-16 17:08:48,757 - h11_impl - send - line:466 -  192.168.0.4:60091 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=8 HTTP/1.1" 500
+INFO - 2024-06-16 17:08:50,297 - h11_impl - send - line:466 -  192.168.0.4:60091 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=8 HTTP/1.1" 500
+INFO - 2024-06-16 17:08:50,297 - h11_impl - send - line:466 -  192.168.0.4:60091 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=8 HTTP/1.1" 500
+INFO - 2024-06-16 17:08:54,637 - h11_impl - send - line:466 -  192.168.0.4:60093 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=12 HTTP/1.1" 500
+INFO - 2024-06-16 17:08:54,637 - h11_impl - send - line:466 -  192.168.0.4:60093 - "POST /calculate/multi/?start_period=60&interval=10&num_periods=12 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:00,546 - h11_impl - send - line:466 -  192.168.0.4:60094 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=12 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:00,546 - h11_impl - send - line:466 -  192.168.0.4:60094 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=12 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:05,531 - h11_impl - send - line:466 -  192.168.0.4:60096 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=18 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:05,531 - h11_impl - send - line:466 -  192.168.0.4:60096 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=18 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:12,252 - h11_impl - send - line:466 -  192.168.0.4:60099 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:12,252 - h11_impl - send - line:466 -  192.168.0.4:60099 - "POST /calculate/multi/?start_period=60&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:22,484 - h11_impl - send - line:466 -  192.168.0.4:60103 - "POST /calculate/multi/?start_period=2&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 17:09:22,484 - h11_impl - send - line:466 -  192.168.0.4:60103 - "POST /calculate/multi/?start_period=2&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 17:09:28,301 - h11_impl - send - line:466 -  192.168.0.4:60104 - "POST /calculate/multi/?start_period=8&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 17:09:28,301 - h11_impl - send - line:466 -  192.168.0.4:60104 - "POST /calculate/multi/?start_period=8&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 17:09:33,528 - h11_impl - send - line:466 -  192.168.0.4:60106 - "POST /calculate/multi/?start_period=8&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 17:09:33,528 - h11_impl - send - line:466 -  192.168.0.4:60106 - "POST /calculate/multi/?start_period=8&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 17:09:39,826 - h11_impl - send - line:466 -  192.168.0.4:60107 - "POST /calculate/multi/?start_period=8&interval=1&num_periods=6 HTTP/1.1" 200
+INFO - 2024-06-16 17:09:39,826 - h11_impl - send - line:466 -  192.168.0.4:60107 - "POST /calculate/multi/?start_period=8&interval=1&num_periods=6 HTTP/1.1" 200
+INFO - 2024-06-16 17:09:47,050 - h11_impl - send - line:466 -  192.168.0.4:60109 - "POST /calculate/multi/?start_period=8&interval=3&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:47,050 - h11_impl - send - line:466 -  192.168.0.4:60109 - "POST /calculate/multi/?start_period=8&interval=3&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:51,251 - h11_impl - send - line:466 -  192.168.0.4:60111 - "POST /calculate/multi/?start_period=8&interval=4&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:51,251 - h11_impl - send - line:466 -  192.168.0.4:60111 - "POST /calculate/multi/?start_period=8&interval=4&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:54,793 - h11_impl - send - line:466 -  192.168.0.4:60111 - "POST /calculate/multi/?start_period=8&interval=2&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:54,793 - h11_impl - send - line:466 -  192.168.0.4:60111 - "POST /calculate/multi/?start_period=8&interval=2&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:59,750 - h11_impl - send - line:466 -  192.168.0.4:60111 - "POST /calculate/multi/?start_period=8&interval=6&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:09:59,750 - h11_impl - send - line:466 -  192.168.0.4:60111 - "POST /calculate/multi/?start_period=8&interval=6&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:10:14,390 - h11_impl - send - line:466 -  192.168.0.4:60126 - "POST /calculate/multi/?start_period=16&interval=6&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:10:14,390 - h11_impl - send - line:466 -  192.168.0.4:60126 - "POST /calculate/multi/?start_period=16&interval=6&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:10:18,038 - h11_impl - send - line:466 -  192.168.0.4:60126 - "POST /calculate/multi/?start_period=16&interval=6&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:10:18,038 - h11_impl - send - line:466 -  192.168.0.4:60126 - "POST /calculate/multi/?start_period=16&interval=6&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:10:21,512 - h11_impl - send - line:466 -  127.0.0.1:60128 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-16 17:10:21,512 - h11_impl - send - line:466 -  127.0.0.1:60128 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-16 17:10:43,454 - h11_impl - send - line:466 -  127.0.0.1:60139 - "POST /calculate/multi/?start_period=16&num_periods=6&interval=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:10:43,454 - h11_impl - send - line:466 -  127.0.0.1:60139 - "POST /calculate/multi/?start_period=16&num_periods=6&interval=6 HTTP/1.1" 500
+INFO - 2024-06-16 17:26:38,918 - h11_impl - send - line:466 -  127.0.0.1:61169 - "POST /calculate/heatmap/?start_period=8&num_periods=2&interval=1 HTTP/1.1" 200
+INFO - 2024-06-16 17:26:38,918 - h11_impl - send - line:466 -  127.0.0.1:61169 - "POST /calculate/heatmap/?start_period=8&num_periods=2&interval=1 HTTP/1.1" 200
+INFO - 2024-06-16 17:36:48,207 - h11_impl - send - line:466 -  127.0.0.1:61989 - "POST /calculate/heatmap/?start_period=8&num_periods=4&interval=2 HTTP/1.1" 500
+INFO - 2024-06-16 17:36:48,207 - h11_impl - send - line:466 -  127.0.0.1:61989 - "POST /calculate/heatmap/?start_period=8&num_periods=4&interval=2 HTTP/1.1" 500
+INFO - 2024-06-16 17:36:58,158 - h11_impl - send - line:466 -  127.0.0.1:61996 - "POST /calculate/heatmap/?start_period=8&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 17:36:58,158 - h11_impl - send - line:466 -  127.0.0.1:61996 - "POST /calculate/heatmap/?start_period=8&num_periods=2&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 18:05:52,366 - h11_impl - send - line:466 -  192.168.0.4:64288 - "POST /calculate/multi/?start_period=18&interval=2&num_periods=6 HTTP/1.1" 200
+INFO - 2024-06-16 18:05:52,366 - h11_impl - send - line:466 -  192.168.0.4:64288 - "POST /calculate/multi/?start_period=18&interval=2&num_periods=6 HTTP/1.1" 200
+INFO - 2024-06-16 18:05:57,401 - h11_impl - send - line:466 -  192.168.0.4:64296 - "POST /calculate/multi/?start_period=18&interval=8&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 18:05:57,401 - h11_impl - send - line:466 -  192.168.0.4:64296 - "POST /calculate/multi/?start_period=18&interval=8&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 18:10:22,106 - h11_impl - send - line:466 -  192.168.0.4:64629 - "POST /calculate/multi/?start_period=18&interval=8&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 18:10:22,106 - h11_impl - send - line:466 -  192.168.0.4:64629 - "POST /calculate/multi/?start_period=18&interval=8&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-16 18:16:13,214 - h11_impl - send - line:466 -  192.168.0.4:64845 - "POST /calculate/multi/?start_period=40&interval=6&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 18:16:13,214 - h11_impl - send - line:466 -  192.168.0.4:64845 - "POST /calculate/multi/?start_period=40&interval=6&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 18:16:16,931 - h11_impl - send - line:466 -  192.168.0.4:64845 - "POST /calculate/multi/?start_period=40&interval=8&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 18:16:16,931 - h11_impl - send - line:466 -  192.168.0.4:64845 - "POST /calculate/multi/?start_period=40&interval=8&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-16 18:16:20,868 - h11_impl - send - line:466 -  192.168.0.4:64845 - "POST /calculate/multi/?start_period=40&interval=2&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 18:16:20,868 - h11_impl - send - line:466 -  192.168.0.4:64845 - "POST /calculate/multi/?start_period=40&interval=2&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 18:18:50,767 - h11_impl - send - line:466 -  192.168.0.4:64953 - "POST /calculate/multi/?start_period=40&interval=2&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 18:18:50,767 - h11_impl - send - line:466 -  192.168.0.4:64953 - "POST /calculate/multi/?start_period=40&interval=2&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-16 21:12:27,157 - h11_impl - send - line:466 -  192.168.0.4:60522 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:12:27,157 - h11_impl - send - line:466 -  192.168.0.4:60522 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:17:43,696 - h11_impl - send - line:466 -  192.168.0.4:60864 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:17:43,696 - h11_impl - send - line:466 -  192.168.0.4:60864 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:20:20,520 - h11_impl - send - line:466 -  192.168.0.4:61101 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:20:20,520 - h11_impl - send - line:466 -  192.168.0.4:61101 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:25:08,080 - h11_impl - send - line:466 -  192.168.0.4:61569 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:25:08,080 - h11_impl - send - line:466 -  192.168.0.4:61569 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:25:15,879 - h11_impl - send - line:466 -  192.168.0.4:61575 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:25:15,879 - h11_impl - send - line:466 -  192.168.0.4:61575 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:25:37,992 - h11_impl - send - line:466 -  192.168.0.4:61601 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:25:37,992 - h11_impl - send - line:466 -  192.168.0.4:61601 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:26:41,251 - h11_impl - send - line:466 -  192.168.0.4:61713 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:26:41,251 - h11_impl - send - line:466 -  192.168.0.4:61713 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:31:26,239 - h11_impl - send - line:466 -  192.168.0.4:62129 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:31:26,239 - h11_impl - send - line:466 -  192.168.0.4:62129 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:31:28,083 - h11_impl - send - line:466 -  192.168.0.4:62131 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:31:28,083 - h11_impl - send - line:466 -  192.168.0.4:62131 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:31:29,069 - h11_impl - send - line:466 -  192.168.0.4:62131 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:31:29,069 - h11_impl - send - line:466 -  192.168.0.4:62131 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:36,322 - h11_impl - send - line:466 -  192.168.0.4:62473 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:36,322 - h11_impl - send - line:466 -  192.168.0.4:62473 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:37,940 - h11_impl - send - line:466 -  192.168.0.4:62476 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:37,940 - h11_impl - send - line:466 -  192.168.0.4:62476 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:44,760 - h11_impl - send - line:466 -  192.168.0.4:62481 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:44,760 - h11_impl - send - line:466 -  192.168.0.4:62481 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:46,033 - h11_impl - send - line:466 -  192.168.0.4:62481 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:46,033 - h11_impl - send - line:466 -  192.168.0.4:62481 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:51,200 - h11_impl - send - line:466 -  192.168.0.4:62487 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:51,200 - h11_impl - send - line:466 -  192.168.0.4:62487 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:52,188 - h11_impl - send - line:466 -  192.168.0.4:62487 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:36:52,188 - h11_impl - send - line:466 -  192.168.0.4:62487 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:37:00,193 - h11_impl - send - line:466 -  192.168.0.4:62493 - "POST /calculate/multi/?start_period=10&interval=5&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-16 21:37:00,193 - h11_impl - send - line:466 -  192.168.0.4:62493 - "POST /calculate/multi/?start_period=10&interval=5&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-16 21:37:03,914 - h11_impl - send - line:466 -  192.168.0.4:62493 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:37:03,914 - h11_impl - send - line:466 -  192.168.0.4:62493 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:37:04,876 - h11_impl - send - line:466 -  192.168.0.4:62493 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:37:04,876 - h11_impl - send - line:466 -  192.168.0.4:62493 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:38:51,978 - h11_impl - send - line:466 -  192.168.0.4:62652 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:38:51,978 - h11_impl - send - line:466 -  192.168.0.4:62652 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:38:56,494 - h11_impl - send - line:466 -  192.168.0.4:62666 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:38:56,494 - h11_impl - send - line:466 -  192.168.0.4:62666 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:40:52,543 - h11_impl - send - line:466 -  192.168.0.4:62786 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:40:52,543 - h11_impl - send - line:466 -  192.168.0.4:62786 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:43:38,876 - h11_impl - send - line:466 -  192.168.0.4:63350 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:43:38,876 - h11_impl - send - line:466 -  192.168.0.4:63350 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:46:42,331 - h11_impl - send - line:466 -  192.168.0.4:63799 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:46:42,331 - h11_impl - send - line:466 -  192.168.0.4:63799 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:49:11,297 - h11_impl - send - line:466 -  192.168.0.4:64322 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:49:11,297 - h11_impl - send - line:466 -  192.168.0.4:64322 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:51:29,821 - h11_impl - send - line:466 -  192.168.0.4:64775 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:51:29,821 - h11_impl - send - line:466 -  192.168.0.4:64775 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:59:39,239 - h11_impl - send - line:466 -  192.168.0.4:49751 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 21:59:39,239 - h11_impl - send - line:466 -  192.168.0.4:49751 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 22:15:55,764 - h11_impl - send - line:466 -  192.168.0.4:51577 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 22:15:55,764 - h11_impl - send - line:466 -  192.168.0.4:51577 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 22:44:05,840 - h11_impl - send - line:466 -  127.0.0.1:54350 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=2 HTTP/1.1" 200
+INFO - 2024-06-16 22:44:05,840 - h11_impl - send - line:466 -  127.0.0.1:54350 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=2 HTTP/1.1" 200
+INFO - 2024-06-16 22:46:51,720 - h11_impl - send - line:466 -  192.168.0.4:54602 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 22:46:51,720 - h11_impl - send - line:466 -  192.168.0.4:54602 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 22:47:10,399 - h11_impl - send - line:466 -  127.0.0.1:54631 - "POST /calculate/multi/?start_period=10&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 22:47:10,399 - h11_impl - send - line:466 -  127.0.0.1:54631 - "POST /calculate/multi/?start_period=10&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 22:50:58,339 - h11_impl - send - line:466 -  127.0.0.1:54899 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 22:50:58,339 - h11_impl - send - line:466 -  127.0.0.1:54899 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:11:37,996 - h11_impl - send - line:466 -  192.168.0.4:56507 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:11:37,996 - h11_impl - send - line:466 -  192.168.0.4:56507 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:12:50,996 - h11_impl - send - line:466 -  192.168.0.4:56587 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:12:50,996 - h11_impl - send - line:466 -  192.168.0.4:56587 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:21:35,023 - h11_impl - send - line:466 -  192.168.0.4:57370 - "POST /calculate/multi/?start_period=10&interval=4&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-16 23:21:35,023 - h11_impl - send - line:466 -  192.168.0.4:57370 - "POST /calculate/multi/?start_period=10&interval=4&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-16 23:21:42,407 - h11_impl - send - line:466 -  192.168.0.4:57381 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:21:42,407 - h11_impl - send - line:466 -  192.168.0.4:57381 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:21:54,733 - h11_impl - send - line:466 -  192.168.0.4:57390 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:21:54,733 - h11_impl - send - line:466 -  192.168.0.4:57390 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:27:11,955 - h11_impl - send - line:466 -  192.168.0.4:57618 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:27:11,955 - h11_impl - send - line:466 -  192.168.0.4:57618 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:27:13,457 - h11_impl - send - line:466 -  192.168.0.4:57618 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:27:13,457 - h11_impl - send - line:466 -  192.168.0.4:57618 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:27:46,922 - h11_impl - send - line:466 -  127.0.0.1:57639 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:27:46,922 - h11_impl - send - line:466 -  127.0.0.1:57639 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:27:58,161 - h11_impl - send - line:466 -  192.168.0.4:57646 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:27:58,161 - h11_impl - send - line:466 -  192.168.0.4:57646 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:31:42,650 - h11_impl - send - line:466 -  192.168.0.4:57982 - "POST /calculate/multi/?start_period=10&interval=4&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-16 23:31:42,650 - h11_impl - send - line:466 -  192.168.0.4:57982 - "POST /calculate/multi/?start_period=10&interval=4&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-16 23:31:46,461 - h11_impl - send - line:466 -  192.168.0.4:57982 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:31:46,461 - h11_impl - send - line:466 -  192.168.0.4:57982 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:33:15,306 - h11_impl - send - line:466 -  192.168.0.4:58224 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 23:33:15,306 - h11_impl - send - line:466 -  192.168.0.4:58224 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 23:34:26,389 - h11_impl - send - line:466 -  192.168.0.4:58408 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 23:34:26,389 - h11_impl - send - line:466 -  192.168.0.4:58408 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-16 23:37:06,033 - h11_impl - send - line:466 -  192.168.0.4:58706 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:37:06,033 - h11_impl - send - line:466 -  192.168.0.4:58706 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:37:53,024 - h11_impl - send - line:466 -  192.168.0.4:58861 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:37:53,024 - h11_impl - send - line:466 -  192.168.0.4:58861 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:38:21,225 - h11_impl - send - line:466 -  127.0.0.1:58972 - "POST /calculate/multi/?start_period=10&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 23:38:21,225 - h11_impl - send - line:466 -  127.0.0.1:58972 - "POST /calculate/multi/?start_period=10&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 23:38:44,206 - h11_impl - send - line:466 -  127.0.0.1:58990 - "POST /calculate/heatmap/?start_period=10&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 23:38:44,206 - h11_impl - send - line:466 -  127.0.0.1:58990 - "POST /calculate/heatmap/?start_period=10&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-16 23:51:17,374 - h11_impl - send - line:466 -  192.168.0.4:59781 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:51:17,374 - h11_impl - send - line:466 -  192.168.0.4:59781 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:54:49,719 - h11_impl - send - line:466 -  192.168.0.4:60184 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:54:49,719 - h11_impl - send - line:466 -  192.168.0.4:60184 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:58:56,078 - h11_impl - send - line:466 -  192.168.0.4:60488 - "POST /calculate/heatmap/?start_period=20&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:58:56,078 - h11_impl - send - line:466 -  192.168.0.4:60488 - "POST /calculate/heatmap/?start_period=20&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-16 23:59:56,344 - h11_impl - send - line:466 -  192.168.0.4:60568 - "POST /calculate/heatmap/?start_period=20&interval=2&num_periods=8 HTTP/1.1" 200
+INFO - 2024-06-16 23:59:56,344 - h11_impl - send - line:466 -  192.168.0.4:60568 - "POST /calculate/heatmap/?start_period=20&interval=2&num_periods=8 HTTP/1.1" 200
+INFO - 2024-06-17 00:04:02,088 - h11_impl - send - line:466 -  192.168.0.4:60869 - "POST /calculate/heatmap/?start_period=30&interval=2&num_periods=8 HTTP/1.1" 200
+INFO - 2024-06-17 00:04:02,088 - h11_impl - send - line:466 -  192.168.0.4:60869 - "POST /calculate/heatmap/?start_period=30&interval=2&num_periods=8 HTTP/1.1" 200
+INFO - 2024-06-17 00:13:08,408 - h11_impl - send - line:466 -  192.168.0.4:61307 - "POST /calculate/heatmap/?start_period=60&interval=12&num_periods=5 HTTP/1.1" 500
+INFO - 2024-06-17 00:13:08,408 - h11_impl - send - line:466 -  192.168.0.4:61307 - "POST /calculate/heatmap/?start_period=60&interval=12&num_periods=5 HTTP/1.1" 500
+INFO - 2024-06-17 00:13:22,495 - h11_impl - send - line:466 -  192.168.0.4:61315 - "POST /calculate/heatmap/?start_period=60&interval=2&num_periods=1 HTTP/1.1" 200
+INFO - 2024-06-17 00:13:22,495 - h11_impl - send - line:466 -  192.168.0.4:61315 - "POST /calculate/heatmap/?start_period=60&interval=2&num_periods=1 HTTP/1.1" 200
+INFO - 2024-06-17 00:13:33,803 - h11_impl - send - line:466 -  192.168.0.4:61337 - "POST /calculate/heatmap/?start_period=60&interval=2&num_periods=50 HTTP/1.1" 500
+INFO - 2024-06-17 00:13:33,803 - h11_impl - send - line:466 -  192.168.0.4:61337 - "POST /calculate/heatmap/?start_period=60&interval=2&num_periods=50 HTTP/1.1" 500
+INFO - 2024-06-17 00:13:44,977 - h11_impl - send - line:466 -  192.168.0.4:61356 - "POST /calculate/heatmap/?start_period=60&interval=2&num_periods=30 HTTP/1.1" 500
+INFO - 2024-06-17 00:13:44,977 - h11_impl - send - line:466 -  192.168.0.4:61356 - "POST /calculate/heatmap/?start_period=60&interval=2&num_periods=30 HTTP/1.1" 500
+INFO - 2024-06-17 00:13:50,171 - h11_impl - send - line:466 -  192.168.0.4:61359 - "POST /calculate/heatmap/?start_period=60&interval=1&num_periods=30 HTTP/1.1" 200
+INFO - 2024-06-17 00:13:50,171 - h11_impl - send - line:466 -  192.168.0.4:61359 - "POST /calculate/heatmap/?start_period=60&interval=1&num_periods=30 HTTP/1.1" 200
+INFO - 2024-06-17 00:14:20,735 - h11_impl - send - line:466 -  192.168.0.4:61399 - "POST /calculate/heatmap/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-17 00:14:20,735 - h11_impl - send - line:466 -  192.168.0.4:61399 - "POST /calculate/heatmap/?start_period=60&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-17 00:24:19,696 - h11_impl - send - line:466 -  192.168.0.4:61859 - "POST /calculate/multi/?start_period=8&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-17 00:24:19,696 - h11_impl - send - line:466 -  192.168.0.4:61859 - "POST /calculate/multi/?start_period=8&interval=1&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-17 01:03:40,421 - h11_impl - send - line:466 -  192.168.0.4:64081 - "POST /calculate/heatmap/?start_period=48&interval=2&num_periods=14 HTTP/1.1" 200
+INFO - 2024-06-17 01:03:40,421 - h11_impl - send - line:466 -  192.168.0.4:64081 - "POST /calculate/heatmap/?start_period=48&interval=2&num_periods=14 HTTP/1.1" 200
+INFO - 2024-06-17 01:03:51,078 - h11_impl - send - line:466 -  192.168.0.4:64091 - "POST /calculate/heatmap/?start_period=48&interval=4&num_periods=14 HTTP/1.1" 500
+INFO - 2024-06-17 01:03:51,078 - h11_impl - send - line:466 -  192.168.0.4:64091 - "POST /calculate/heatmap/?start_period=48&interval=4&num_periods=14 HTTP/1.1" 500
+INFO - 2024-06-17 01:03:55,056 - h11_impl - send - line:466 -  192.168.0.4:64091 - "POST /calculate/heatmap/?start_period=48&interval=8&num_periods=14 HTTP/1.1" 500
+INFO - 2024-06-17 01:03:55,056 - h11_impl - send - line:466 -  192.168.0.4:64091 - "POST /calculate/heatmap/?start_period=48&interval=8&num_periods=14 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:02,031 - h11_impl - send - line:466 -  192.168.0.4:64124 - "POST /calculate/heatmap/?start_period=48&interval=8&num_periods=32 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:02,031 - h11_impl - send - line:466 -  192.168.0.4:64124 - "POST /calculate/heatmap/?start_period=48&interval=8&num_periods=32 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:06,602 - h11_impl - send - line:466 -  192.168.0.4:64124 - "POST /calculate/heatmap/?start_period=48&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:06,602 - h11_impl - send - line:466 -  192.168.0.4:64124 - "POST /calculate/heatmap/?start_period=48&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:11,994 - h11_impl - send - line:466 -  192.168.0.4:64132 - "POST /calculate/heatmap/?start_period=88&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:11,994 - h11_impl - send - line:466 -  192.168.0.4:64132 - "POST /calculate/heatmap/?start_period=88&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:19,334 - h11_impl - send - line:466 -  192.168.0.4:64151 - "POST /calculate/heatmap/?start_period=160&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:19,334 - h11_impl - send - line:466 -  192.168.0.4:64151 - "POST /calculate/heatmap/?start_period=160&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:24,866 - h11_impl - send - line:466 -  192.168.0.4:64153 - "POST /calculate/heatmap/?start_period=100&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:24,866 - h11_impl - send - line:466 -  192.168.0.4:64153 - "POST /calculate/heatmap/?start_period=100&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:04:29,086 - h11_impl - send - line:466 -  192.168.0.4:64153 - "POST /calculate/heatmap/?start_period=100&interval=8&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-17 01:04:29,086 - h11_impl - send - line:466 -  192.168.0.4:64153 - "POST /calculate/heatmap/?start_period=100&interval=8&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-17 01:08:24,430 - h11_impl - send - line:466 -  192.168.0.4:64427 - "POST /calculate/multipliers/?start_period=100&interval=20&num_multipliers=8 HTTP/1.1" 500
+INFO - 2024-06-17 01:08:24,430 - h11_impl - send - line:466 -  192.168.0.4:64427 - "POST /calculate/multipliers/?start_period=100&interval=20&num_multipliers=8 HTTP/1.1" 500
+INFO - 2024-06-17 01:08:48,841 - h11_impl - send - line:466 -  192.168.0.4:64434 - "POST /calculate/heatmap/?start_period=100&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:08:48,841 - h11_impl - send - line:466 -  192.168.0.4:64434 - "POST /calculate/heatmap/?start_period=100&interval=8&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:09:00,083 - h11_impl - send - line:466 -  192.168.0.4:64442 - "POST /calculate/heatmap/?start_period=100&interval=2&num_periods=20 HTTP/1.1" 200
+INFO - 2024-06-17 01:09:00,083 - h11_impl - send - line:466 -  192.168.0.4:64442 - "POST /calculate/heatmap/?start_period=100&interval=2&num_periods=20 HTTP/1.1" 200
+INFO - 2024-06-17 01:09:35,752 - h11_impl - send - line:466 -  192.168.0.4:64454 - "POST /calculate/heatmap/?start_period=100&interval=10&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:09:35,752 - h11_impl - send - line:466 -  192.168.0.4:64454 - "POST /calculate/heatmap/?start_period=100&interval=10&num_periods=20 HTTP/1.1" 500
+INFO - 2024-06-17 01:09:41,725 - h11_impl - send - line:466 -  192.168.0.4:64457 - "POST /calculate/heatmap/?start_period=100&interval=10&num_periods=14 HTTP/1.1" 500
+INFO - 2024-06-17 01:09:41,725 - h11_impl - send - line:466 -  192.168.0.4:64457 - "POST /calculate/heatmap/?start_period=100&interval=10&num_periods=14 HTTP/1.1" 500
+INFO - 2024-06-17 01:09:48,480 - h11_impl - send - line:466 -  192.168.0.4:64466 - "POST /calculate/heatmap/?start_period=100&interval=10&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-17 01:09:48,480 - h11_impl - send - line:466 -  192.168.0.4:64466 - "POST /calculate/heatmap/?start_period=100&interval=10&num_periods=10 HTTP/1.1" 500
+INFO - 2024-06-17 01:09:52,700 - h11_impl - send - line:466 -  192.168.0.4:64466 - "POST /calculate/heatmap/?start_period=100&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-17 01:09:52,700 - h11_impl - send - line:466 -  192.168.0.4:64466 - "POST /calculate/heatmap/?start_period=100&interval=5&num_periods=10 HTTP/1.1" 200
+INFO - 2024-06-17 09:13:22,771 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-17 09:13:22,773 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-17 09:13:22,775 - basereload - startup - line:79 -  Started reloader process [19804] using StatReload
+INFO - 2024-06-17 09:13:28,983 - server - _serve - line:82 -  Started server process [19756]
+INFO - 2024-06-17 09:13:28,983 - server - _serve - line:82 -  Started server process [19756]
+INFO - 2024-06-17 09:13:28,984 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-17 09:13:28,984 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-17 09:13:28,986 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-17 09:13:28,986 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-17 09:17:03,697 - h11_impl - send - line:466 -  127.0.0.1:52033 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-17 09:17:03,697 - h11_impl - send - line:466 -  127.0.0.1:52033 - "GET /docs HTTP/1.1" 200
+INFO - 2024-06-17 09:17:05,191 - h11_impl - send - line:466 -  127.0.0.1:52033 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-17 09:17:05,191 - h11_impl - send - line:466 -  127.0.0.1:52033 - "GET /openapi.json HTTP/1.1" 200
+INFO - 2024-06-17 09:17:54,223 - h11_impl - send - line:466 -  127.0.0.1:52145 - "POST /calculate/multi/?start_period=10&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-17 09:17:54,223 - h11_impl - send - line:466 -  127.0.0.1:52145 - "POST /calculate/multi/?start_period=10&num_periods=4&interval=2 HTTP/1.1" 200
+INFO - 2024-06-17 09:24:52,720 - h11_impl - send - line:466 -  127.0.0.1:52695 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 09:24:52,720 - h11_impl - send - line:466 -  127.0.0.1:52695 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 09:24:54,138 - h11_impl - send - line:466 -  127.0.0.1:52695 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 09:24:54,138 - h11_impl - send - line:466 -  127.0.0.1:52695 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 09:25:33,389 - h11_impl - send - line:466 -  127.0.0.1:52728 - "POST /calculate/multi/?start_period=10&interval=4&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 09:25:33,389 - h11_impl - send - line:466 -  127.0.0.1:52728 - "POST /calculate/multi/?start_period=10&interval=4&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 09:26:35,878 - h11_impl - send - line:466 -  127.0.0.1:52772 - "POST /calculate/heatmap/?start_period=20&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 09:26:35,878 - h11_impl - send - line:466 -  127.0.0.1:52772 - "POST /calculate/heatmap/?start_period=20&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 09:27:27,646 - h11_impl - send - line:466 -  127.0.0.1:52811 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 09:27:27,646 - h11_impl - send - line:466 -  127.0.0.1:52811 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 09:28:04,230 - h11_impl - send - line:466 -  127.0.0.1:52845 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=2 HTTP/1.1" 200
+INFO - 2024-06-17 09:28:04,230 - h11_impl - send - line:466 -  127.0.0.1:52845 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=2 HTTP/1.1" 200
+INFO - 2024-06-17 09:57:32,394 - h11_impl - send - line:466 -  127.0.0.1:54374 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-17 09:57:32,394 - h11_impl - send - line:466 -  127.0.0.1:54374 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=2 HTTP/1.1" 200
+INFO - 2024-06-17 13:16:57,620 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:16:57,620 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:00,733 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:00,733 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:01,980 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:01,980 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:02,898 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:02,898 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:05,914 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=4&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:17:05,914 - h11_impl - send - line:466 -  127.0.0.1:64734 - "POST /calculate/multi/?start_period=10&interval=4&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:17:19,721 - h11_impl - send - line:466 -  127.0.0.1:64746 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-17 13:17:19,721 - h11_impl - send - line:466 -  127.0.0.1:64746 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=6 HTTP/1.1" 500
+INFO - 2024-06-17 13:17:25,504 - h11_impl - send - line:466 -  127.0.0.1:64747 - "POST /calculate/multi/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:25,504 - h11_impl - send - line:466 -  127.0.0.1:64747 - "POST /calculate/multi/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:27,116 - h11_impl - send - line:466 -  127.0.0.1:64747 - "POST /calculate/multi/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:17:27,116 - h11_impl - send - line:466 -  127.0.0.1:64747 - "POST /calculate/multi/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:18:25,590 - h11_impl - send - line:466 -  127.0.0.1:64829 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:18:25,590 - h11_impl - send - line:466 -  127.0.0.1:64829 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:18:44,186 - h11_impl - send - line:466 -  127.0.0.1:65021 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:18:44,186 - h11_impl - send - line:466 -  127.0.0.1:65021 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:19:12,711 - h11_impl - send - line:466 -  127.0.0.1:65197 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:19:12,711 - h11_impl - send - line:466 -  127.0.0.1:65197 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:19:24,094 - h11_impl - send - line:466 -  127.0.0.1:65198 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:19:24,094 - h11_impl - send - line:466 -  127.0.0.1:65198 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:19:37,300 - h11_impl - send - line:466 -  127.0.0.1:65406 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:19:37,300 - h11_impl - send - line:466 -  127.0.0.1:65406 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:19:40,223 - h11_impl - send - line:466 -  127.0.0.1:65406 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:19:40,223 - h11_impl - send - line:466 -  127.0.0.1:65406 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:19:42,823 - h11_impl - send - line:466 -  127.0.0.1:65406 - "POST /calculate/multi/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:19:42,823 - h11_impl - send - line:466 -  127.0.0.1:65406 - "POST /calculate/multi/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:25:12,512 - h11_impl - send - line:466 -  127.0.0.1:49370 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:25:12,512 - h11_impl - send - line:466 -  127.0.0.1:49370 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:27:38,182 - h11_impl - send - line:466 -  127.0.0.1:49916 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:27:38,182 - h11_impl - send - line:466 -  127.0.0.1:49916 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:36:42,138 - h11_impl - send - line:466 -  127.0.0.1:50608 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=2 HTTP/1.1" 200
+INFO - 2024-06-17 13:36:42,138 - h11_impl - send - line:466 -  127.0.0.1:50608 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=2 HTTP/1.1" 200
+INFO - 2024-06-17 13:39:03,129 - h11_impl - send - line:466 -  127.0.0.1:50794 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:39:03,129 - h11_impl - send - line:466 -  127.0.0.1:50794 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 422
+INFO - 2024-06-17 13:40:47,960 - h11_impl - send - line:466 -  127.0.0.1:51122 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:40:47,960 - h11_impl - send - line:466 -  127.0.0.1:51122 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:41:06,005 - h11_impl - send - line:466 -  127.0.0.1:51136 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=2 HTTP/1.1" 200
+INFO - 2024-06-17 13:41:06,005 - h11_impl - send - line:466 -  127.0.0.1:51136 - "POST /calculate/multipliers/?start_period=10&interval=4&num_multipliers=2 HTTP/1.1" 200
+INFO - 2024-06-17 13:41:26,486 - h11_impl - send - line:466 -  127.0.0.1:51140 - "POST /calculate/heatmap/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:41:26,486 - h11_impl - send - line:466 -  127.0.0.1:51140 - "POST /calculate/heatmap/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:41:37,551 - h11_impl - send - line:466 -  127.0.0.1:51142 - "POST /calculate/heatmap/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:41:37,551 - h11_impl - send - line:466 -  127.0.0.1:51142 - "POST /calculate/heatmap/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:41:42,609 - h11_impl - send - line:466 -  127.0.0.1:51144 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:41:42,609 - h11_impl - send - line:466 -  127.0.0.1:51144 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 13:41:47,744 - h11_impl - send - line:466 -  127.0.0.1:51146 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:41:47,744 - h11_impl - send - line:466 -  127.0.0.1:51146 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:41:56,349 - h11_impl - send - line:466 -  127.0.0.1:51170 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:41:56,349 - h11_impl - send - line:466 -  127.0.0.1:51170 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:41:57,483 - h11_impl - send - line:466 -  127.0.0.1:51170 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:41:57,483 - h11_impl - send - line:466 -  127.0.0.1:51170 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:42:23,447 - h11_impl - send - line:466 -  127.0.0.1:51209 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 13:42:23,447 - h11_impl - send - line:466 -  127.0.0.1:51209 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 14:32:51,319 - h11_impl - send - line:466 -  127.0.0.1:53517 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 14:32:51,319 - h11_impl - send - line:466 -  127.0.0.1:53517 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 14:32:52,683 - h11_impl - send - line:466 -  127.0.0.1:53517 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 14:32:52,683 - h11_impl - send - line:466 -  127.0.0.1:53517 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 14:32:54,749 - h11_impl - send - line:466 -  127.0.0.1:53517 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 14:32:54,749 - h11_impl - send - line:466 -  127.0.0.1:53517 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 14:33:08,614 - h11_impl - send - line:466 -  127.0.0.1:53556 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 14:33:08,614 - h11_impl - send - line:466 -  127.0.0.1:53556 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 16:05:58,209 - h11_impl - send - line:466 -  127.0.0.1:61652 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 16:05:58,209 - h11_impl - send - line:466 -  127.0.0.1:61652 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 16:06:04,747 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:04,747 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:06,199 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:06,199 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:06,832 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:06,832 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:06,994 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:06,994 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:10,883 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:10,883 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:15,069 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:15,069 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:15,336 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:15,336 - h11_impl - send - line:466 -  127.0.0.1:61656 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:28,021 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:28,021 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:32,803 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 16:06:32,803 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 16:06:34,082 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 16:06:34,082 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 500
+INFO - 2024-06-17 16:06:37,922 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:37,922 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:38,952 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:38,952 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:41,558 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:41,558 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=1&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:44,728 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=3&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 16:06:44,728 - h11_impl - send - line:466 -  127.0.0.1:61685 - "POST /calculate/multi/?start_period=10&interval=3&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 21:59:47,209 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-17 21:59:47,211 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-17 21:59:47,212 - basereload - startup - line:79 -  Started reloader process [1896] using StatReload
+INFO - 2024-06-17 21:59:49,862 - server - _serve - line:82 -  Started server process [20488]
+INFO - 2024-06-17 21:59:49,862 - server - _serve - line:82 -  Started server process [20488]
+INFO - 2024-06-17 21:59:49,862 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-17 21:59:49,862 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-17 21:59:49,863 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-17 21:59:49,863 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-17 22:00:43,159 - server - shutdown - line:258 -  Shutting down
+INFO - 2024-06-17 22:00:43,159 - server - shutdown - line:258 -  Shutting down
+INFO - 2024-06-17 22:00:43,268 - on - shutdown - line:67 -  Waiting for application shutdown.
+INFO - 2024-06-17 22:00:43,268 - on - shutdown - line:67 -  Waiting for application shutdown.
+INFO - 2024-06-17 22:00:43,268 - on - shutdown - line:76 -  Application shutdown complete.
+INFO - 2024-06-17 22:00:43,268 - on - shutdown - line:76 -  Application shutdown complete.
+INFO - 2024-06-17 22:00:43,268 - server - _serve - line:92 -  Finished server process [20488]
+INFO - 2024-06-17 22:00:43,268 - server - _serve - line:92 -  Finished server process [20488]
+INFO - 2024-06-17 22:00:43,409 - basereload - shutdown - line:111 -  Stopping reloader process [1896]
+INFO - 2024-06-17 22:00:54,911 - config - __init__ - line:317 -  Will watch for changes in these directories: ['C:\\Users\\55353\\Desktop\\color_ball_backend']
+INFO - 2024-06-17 22:00:54,912 - config - bind_socket - line:523 -  Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO - 2024-06-17 22:00:54,912 - basereload - startup - line:79 -  Started reloader process [18776] using StatReload
+INFO - 2024-06-17 22:00:57,349 - server - _serve - line:82 -  Started server process [1528]
+INFO - 2024-06-17 22:00:57,349 - server - _serve - line:82 -  Started server process [1528]
+INFO - 2024-06-17 22:00:57,349 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-17 22:00:57,349 - on - startup - line:48 -  Waiting for application startup.
+INFO - 2024-06-17 22:00:57,350 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-17 22:00:57,350 - on - startup - line:62 -  Application startup complete.
+INFO - 2024-06-17 22:03:22,419 - h11_impl - send - line:466 -  127.0.0.1:51513 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 22:03:22,419 - h11_impl - send - line:466 -  127.0.0.1:51513 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 22:03:37,568 - h11_impl - send - line:466 -  127.0.0.1:51520 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 22:03:37,568 - h11_impl - send - line:466 -  127.0.0.1:51520 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 22:09:03,023 - h11_impl - send - line:466 -  127.0.0.1:52152 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 22:09:03,023 - h11_impl - send - line:466 -  127.0.0.1:52152 - "POST /calculate/heatmap/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 22:11:36,913 - h11_impl - send - line:466 -  127.0.0.1:52272 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
+INFO - 2024-06-17 22:11:36,913 - h11_impl - send - line:466 -  127.0.0.1:52272 - "POST /calculate/multi/?start_period=10&interval=2&num_periods=4 HTTP/1.1" 200
