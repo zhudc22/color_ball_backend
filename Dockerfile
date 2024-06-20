@@ -21,7 +21,7 @@ RUN pip install supervisor
 COPY . .
 
 # 将supervisord配置文件复制到容器中
-COPY supervisord.conf /etc/supervisord.conf
+# COPY supervisord.conf /etc/supervisord.conf
 
 # 暴露端口8000供外部访问
 EXPOSE 8000
